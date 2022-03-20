@@ -1,0 +1,523 @@
+year_film,year_ceremony,ceremony,category,name,film,winner
+1927,1928,1,ACTOR,Richard Barthelmess,The Noose,False
+1927,1928,1,ACTOR,Emil Jannings,The Last Command,True
+1927,1928,1,ACTRESS,Louise Dresser,A Ship Comes In,False
+1927,1928,1,ACTRESS,Janet Gaynor,7th Heaven,True
+1927,1928,1,ACTRESS,Gloria Swanson,Sadie Thompson,False
+1927,1928,1,ART DIRECTION,Rochus Gliese,Sunrise,False
+1927,1928,1,ART DIRECTION,William Cameron Menzies,The Dove;,True
+1927,1928,1,ART DIRECTION,Harry Oliver,7th Heaven,False
+1927,1928,1,CINEMATOGRAPHY,George Barnes,The Devil Dancer;,False
+1927,1928,1,CINEMATOGRAPHY,Charles Rosher,Sunrise,True
+1927,1928,1,CINEMATOGRAPHY,Karl Struss,Sunrise,True
+1927,1928,1,DIRECTING (Comedy Picture),Lewis Milestone,Two Arabian Knights,True
+1927,1928,1,DIRECTING (Comedy Picture),Ted Wilde,Speedy,False
+1927,1928,1,DIRECTING (Dramatic Picture),Frank Borzage,7th Heaven,True
+1927,1928,1,DIRECTING (Dramatic Picture),Herbert Brenon,Sorrell and Son,False
+1927,1928,1,DIRECTING (Dramatic Picture),King Vidor,The Crowd,False
+1927,1928,1,ENGINEERING EFFECTS,Ralph Hammeras,,False
+1927,1928,1,ENGINEERING EFFECTS,Roy Pomeroy,Wings,True
+1927,1928,1,ENGINEERING EFFECTS,Nugent Slaughter,,False
+1927,1928,1,OUTSTANDING PICTURE,The Caddo Company,The Racket,False
+1927,1928,1,OUTSTANDING PICTURE,Fox,7th Heaven,False
+1927,1928,1,OUTSTANDING PICTURE,Paramount Famous Lasky,Wings,True
+1927,1928,1,UNIQUE AND ARTISTIC PICTURE,Fox,Sunrise,True
+1927,1928,1,UNIQUE AND ARTISTIC PICTURE,Metro-Goldwyn-Mayer,The Crowd,False
+1927,1928,1,UNIQUE AND ARTISTIC PICTURE,Paramount Famous Lasky,Chang,False
+1927,1928,1,WRITING (Adaptation),Alfred Cohn,The Jazz Singer,False
+1927,1928,1,WRITING (Adaptation),Anthony Coldeway,Glorious Betsy,False
+1927,1928,1,WRITING (Adaptation),Benjamin Glazer,7th Heaven,True
+1927,1928,1,WRITING (Original Story),Lajos Biro,The Last Command,False
+1927,1928,1,WRITING (Original Story),Ben Hecht,Underworld,True
+1927,1928,1,WRITING (Title Writing),Gerald Duffy,The Private Life of Helen of Troy,False
+1927,1928,1,WRITING (Title Writing),Joseph Farnham,,True
+1927,1928,1,WRITING (Title Writing),"George Marion, Jr.",,False
+1927,1928,1,SPECIAL AWARD, Warner Bros.,,True
+1927,1928,1,SPECIAL AWARD, Charles Chaplin,,True
+1928,1929,2,ACTOR,George Bancroft,Thunderbolt,False
+1928,1929,2,ACTOR,Warner Baxter,In Old Arizona,True
+1928,1929,2,ACTOR,Chester Morris,Alibi,False
+1928,1929,2,ACTOR,Paul Muni,The Valiant,False
+1928,1929,2,ACTOR,Lewis Stone,The Patriot,False
+1928,1929,2,ACTRESS,Ruth Chatterton,Madame X,False
+1928,1929,2,ACTRESS,Betty Compson,The Barker,False
+1928,1929,2,ACTRESS,Jeanne Eagels,The Letter,False
+1928,1929,2,ACTRESS,Corinne Griffith,The Divine Lady,False
+1928,1929,2,ACTRESS,Bessie Love,The Broadway Melody,False
+1928,1929,2,ACTRESS,Mary Pickford,Coquette,True
+1928,1929,2,ART DIRECTION,Hans Dreier,The Patriot,False
+1928,1929,2,ART DIRECTION,Cedric Gibbons,The Bridge of San Luis Rey,True
+1928,1929,2,ART DIRECTION,Mitchell Leisen,Dynamite,False
+1928,1929,2,ART DIRECTION,William Cameron Menzies,Alibi;,False
+1928,1929,2,ART DIRECTION,Harry Oliver,Street Angel,False
+1928,1929,2,CINEMATOGRAPHY,George Barnes,Our Dancing Daughters,False
+1928,1929,2,CINEMATOGRAPHY,Clyde De Vinna,White Shadows in the South Seas,True
+1928,1929,2,CINEMATOGRAPHY,Arthur Edeson,In Old Arizona,False
+1928,1929,2,CINEMATOGRAPHY,Ernest Palmer,Four Devils;,False
+1928,1929,2,CINEMATOGRAPHY,John Seitz,The Divine Lady,False
+1928,1929,2,DIRECTING,Lionel Barrymore,Madame X,False
+1928,1929,2,DIRECTING,Harry Beaumont,The Broadway Melody,False
+1928,1929,2,DIRECTING,Irving Cummings,In Old Arizona,False
+1928,1929,2,DIRECTING,Frank Lloyd,The Divine Lady,True
+1928,1929,2,DIRECTING,Frank Lloyd,Drag;,False
+1928,1929,2,DIRECTING,Ernst Lubitsch,The Patriot,False
+1928,1929,2,OUTSTANDING PICTURE,Feature Productions,Alibi,False
+1928,1929,2,OUTSTANDING PICTURE,Fox,In Old Arizona,False
+1928,1929,2,OUTSTANDING PICTURE,Metro-Goldwyn-Mayer,The Broadway Melody,True
+1928,1929,2,OUTSTANDING PICTURE,Metro-Goldwyn-Mayer,Hollywood Revue,False
+1928,1929,2,OUTSTANDING PICTURE,Paramount Famous Lasky,The Patriot,False
+1928,1929,2,WRITING,Tom Barry,In Old Arizona;,False
+1928,1929,2,WRITING,Elliott Clawson,The Cop;,False
+1928,1929,2,WRITING,Hans Kraly,The Last of Mrs. Cheyney,False
+1928,1929,2,WRITING,Hans Kraly,The Patriot,True
+1928,1929,2,WRITING,Josephine Lovett,Our Dancing Daughters,False
+1928,1929,2,WRITING,Bess Meredyth,A Woman of Affairs;,False
+1929,1930,3,ACTOR,George Arliss,Disraeli,True
+1929,1930,3,ACTOR,George Arliss,The Green Goddess,False
+1929,1930,3,ACTOR,Wallace Beery,The Big House,False
+1929,1930,3,ACTOR,Maurice Chevalier,The Big Pond,False
+1929,1930,3,ACTOR,Ronald Colman,Bulldog Drummond,False
+1929,1930,3,ACTOR,Lawrence Tibbett,The Rogue Song,False
+1929,1930,3,ACTRESS,Nancy Carroll,The Devil's Holiday,False
+1929,1930,3,ACTRESS,Ruth Chatterton,Sarah and Son,False
+1929,1930,3,ACTRESS,Greta Garbo,Anna Christie,False
+1929,1930,3,ACTRESS,Norma Shearer,The Divorcee,True
+1929,1930,3,ACTRESS,Norma Shearer,Their Own Desire,False
+1929,1930,3,ACTRESS,Gloria Swanson,The Trespasser,False
+1929,1930,3,ART DIRECTION,(William Cameron Menzies),Bulldog Drummond,False
+1929,1930,3,ART DIRECTION,Herman Rosse,King of Jazz,True
+1929,1930,3,ART DIRECTION,(Hans Dreier),The Love Parade,False
+1929,1930,3,ART DIRECTION,(Jack Okey),Sally,False
+1929,1930,3,ART DIRECTION,(Hans Dreier),The Vagabond King,False
+1929,1930,3,CINEMATOGRAPHY,(Arthur Edeson),All Quiet on the Western Front,False
+1929,1930,3,CINEMATOGRAPHY,(William Daniels),Anna Christie,False
+1929,1930,3,CINEMATOGRAPHY,"(Gaetano Gaudio), (Harry Perry)",Hell's Angels,False
+1929,1930,3,CINEMATOGRAPHY,(Victor Milner),The Love Parade,False
+1929,1930,3,CINEMATOGRAPHY,"Joseph T. Rucker, Willard Van Der Veer",With Byrd at the South Pole,True
+1929,1930,3,DIRECTING,Clarence Brown,Anna Christie;,False
+1929,1930,3,DIRECTING,Robert Leonard,The Divorcee,False
+1929,1930,3,DIRECTING,Ernst Lubitsch,The Love Parade,False
+1929,1930,3,DIRECTING,Lewis Milestone,All Quiet on the Western Front,True
+1929,1930,3,DIRECTING,King Vidor,Hallelujah,False
+1929,1930,3,OUTSTANDING PRODUCTION,Universal,All Quiet on the Western Front,True
+1929,1930,3,OUTSTANDING PRODUCTION,Cosmopolitan,The Big House,False
+1929,1930,3,OUTSTANDING PRODUCTION,Warner Bros.,Disraeli,False
+1929,1930,3,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Divorcee,False
+1929,1930,3,OUTSTANDING PRODUCTION,Paramount Famous Lasky,The Love Parade,False
+1929,1930,3,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",The Big House,True
+1929,1930,3,SOUND RECORDING,"(RKO Radio Studio Sound Department, John Tribby, Sound Director)",The Case of Sergeant Grischa,False
+1929,1930,3,SOUND RECORDING,"(Paramount Famous Lasky Studio Sound Department, Franklin Hansen, Sound Director)",The Love Parade,False
+1929,1930,3,SOUND RECORDING,"(United Artists Studio Sound Department, Oscar Lagerstrom, Sound Director)",Raffles,False
+1929,1930,3,SOUND RECORDING,"(First National Studio Sound Department, George Groves, Sound Director)",Song of the Flame,False
+1929,1930,3,WRITING,"(George Abbott), (Maxwell Anderson), (Del Andrews)",All Quiet on the Western Front,False
+1929,1930,3,WRITING,Frances Marion,The Big House,True
+1929,1930,3,WRITING,(Julian Josephson),Disraeli,False
+1929,1930,3,WRITING,(John Meehan),The Divorcee,False
+1929,1930,3,WRITING,(Howard Estabrook),Street of Chance,False
+1930,1931,4,ACTOR,Lionel Barrymore,A Free Soul,True
+1930,1931,4,ACTOR,Jackie Cooper,Skippy,False
+1930,1931,4,ACTOR,Richard Dix,Cimarron,False
+1930,1931,4,ACTOR,Fredric March,The Royal Family of Broadway,False
+1930,1931,4,ACTOR,Adolphe Menjou,The Front Page,False
+1930,1931,4,ACTRESS,Marlene Dietrich,Morocco,False
+1930,1931,4,ACTRESS,Marie Dressler,Min and Bill,True
+1930,1931,4,ACTRESS,Irene Dunne,Cimarron,False
+1930,1931,4,ACTRESS,Ann Harding,Holiday,False
+1930,1931,4,ACTRESS,Norma Shearer,A Free Soul,False
+1930,1931,4,ART DIRECTION,Max Rée,Cimarron,True
+1930,1931,4,ART DIRECTION,"Stephen Goosson, Ralph Hammeras",Just Imagine,False
+1930,1931,4,ART DIRECTION,Hans Dreier,Morocco,False
+1930,1931,4,ART DIRECTION,Anton Grot,Svengali,False
+1930,1931,4,ART DIRECTION,Richard Day,Whoopee!,False
+1930,1931,4,CINEMATOGRAPHY,Edward Cronjager,Cimarron,False
+1930,1931,4,CINEMATOGRAPHY,Lee Garmes,Morocco,False
+1930,1931,4,CINEMATOGRAPHY,Charles Lang,The Right to Love,False
+1930,1931,4,CINEMATOGRAPHY,"Barney ""Chick"" McGill",Svengali,False
+1930,1931,4,CINEMATOGRAPHY,Floyd Crosby,Tabu,True
+1930,1931,4,DIRECTING,Wesley Ruggles,Cimarron,False
+1930,1931,4,DIRECTING,Clarence Brown,A Free Soul,False
+1930,1931,4,DIRECTING,Lewis Milestone,The Front Page,False
+1930,1931,4,DIRECTING,Josef Von Sternberg,Morocco,False
+1930,1931,4,DIRECTING,Norman Taurog,Skippy,True
+1930,1931,4,OUTSTANDING PRODUCTION,RKO Radio,Cimarron,True
+1930,1931,4,OUTSTANDING PRODUCTION,Fox,East Lynne,False
+1930,1931,4,OUTSTANDING PRODUCTION,The Caddo Company,The Front Page,False
+1930,1931,4,OUTSTANDING PRODUCTION,Paramount Publix,Skippy,False
+1930,1931,4,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Trader Horn,False
+1930,1931,4,SOUND RECORDING,Samuel Goldwyn - United Artists Studio Sound Department,,False
+1930,1931,4,SOUND RECORDING,Metro-Goldwyn-Mayer Studio Sound Department,,False
+1930,1931,4,SOUND RECORDING,Paramount Publix Studio Sound Department,,True
+1930,1931,4,SOUND RECORDING,RKO Radio Studio Sound Department,,False
+1930,1931,4,WRITING (Adaptation),Howard Estabrook,Cimarron,True
+1930,1931,4,WRITING (Adaptation),"Seton I. Miller, Fred Niblo, Jr.",The Criminal Code,False
+1930,1931,4,WRITING (Adaptation),Horace Jackson,Holiday,False
+1930,1931,4,WRITING (Adaptation),"Francis Faragoh, Robert N. Lee",Little Caesar,False
+1930,1931,4,WRITING (Adaptation),"Joseph L. Mankiewicz, Sam Mintz",Skippy,False
+1930,1931,4,WRITING (Original Story),John Monk Saunders,The Dawn Patrol,True
+1930,1931,4,WRITING (Original Story),Rowland Brown,The Doorway to Hell,False
+1930,1931,4,WRITING (Original Story),"Harry d'Abbadie d'Arrast, Douglas Doty, Donald Ogden Stewart",Laughter,False
+1930,1931,4,WRITING (Original Story),"John Bright, Kubec Glasmon",The Public Enemy,False
+1930,1931,4,WRITING (Original Story),"Lucien Hubbard, Joseph Jackson",Smart Money,False
+1931,1932,5,ACTOR,Wallace Beery,The Champ,True
+1931,1932,5,ACTOR,Alfred Lunt,The Guardsman,False
+1931,1932,5,ACTOR,Fredric March,Dr. Jekyll and Mr. Hyde,True
+1931,1932,5,ACTRESS,Marie Dressler,Emma,False
+1931,1932,5,ACTRESS,Lynn Fontanne,The Guardsman,False
+1931,1932,5,ACTRESS,Helen Hayes,The Sin of Madelon Claudet,True
+1931,1932,5,ART DIRECTION,Lazare Meerson,À Nous la Liberté,False
+1931,1932,5,ART DIRECTION,Richard Day,Arrowsmith,False
+1931,1932,5,ART DIRECTION,Gordon Wiles,Transatlantic,True
+1931,1932,5,CINEMATOGRAPHY,Ray June,Arrowsmith,False
+1931,1932,5,CINEMATOGRAPHY,Karl Struss,Dr. Jekyll and Mr. Hyde,False
+1931,1932,5,CINEMATOGRAPHY,Lee Garmes,Shanghai Express,True
+1931,1932,5,DIRECTING,Frank Borzage,Bad Girl,True
+1931,1932,5,DIRECTING,King Vidor,The Champ,False
+1931,1932,5,DIRECTING,Josef Von Sternberg,Shanghai Express,False
+1931,1932,5,OUTSTANDING PRODUCTION,Samuel Goldwyn Productions,Arrowsmith,False
+1931,1932,5,OUTSTANDING PRODUCTION,Fox,Bad Girl,False
+1931,1932,5,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Champ,False
+1931,1932,5,OUTSTANDING PRODUCTION,First National,Five Star Final,False
+1931,1932,5,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Grand Hotel,True
+1931,1932,5,OUTSTANDING PRODUCTION,Paramount Publix,One Hour with You,False
+1931,1932,5,OUTSTANDING PRODUCTION,Paramount Publix,Shanghai Express,False
+1931,1932,5,OUTSTANDING PRODUCTION,Paramount Publix,The Smiling Lieutenant,False
+1931,1932,5,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Flowers and Trees,True
+1931,1932,5,SHORT SUBJECT (Cartoon),"Leon Schlesinger, Producer",It's Got Me Again,False
+1931,1932,5,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Mickey's Orphans,False
+1931,1932,5,SHORT SUBJECT (Comedy),"Mack Sennett, Producer",The Loud Mouth,False
+1931,1932,5,SHORT SUBJECT (Comedy),"Hal Roach, Producer",The Music Box,True
+1931,1932,5,SHORT SUBJECT (Comedy),RKO Radio,Scratch-As-Catch-Can,False
+1931,1932,5,SHORT SUBJECT (Comedy),RKO Radio,Stout Hearts and Willing Hands,False
+1931,1932,5,SHORT SUBJECT (Novelty),Paramount Publix,Screen Souvenirs,False
+1931,1932,5,SHORT SUBJECT (Novelty),Metro-Goldwyn-Mayer,Swing High,False
+1931,1932,5,SHORT SUBJECT (Novelty),"Mack Sennett, Producer",Wrestling Swordfish,True
+1931,1932,5,SOUND RECORDING,Metro-Goldwyn-Mayer Studio Sound Department,,False
+1931,1932,5,SOUND RECORDING,Paramount Publix Studio Sound Department,,True
+1931,1932,5,SOUND RECORDING,RKO Radio Studio Sound Department,,False
+1931,1932,5,SOUND RECORDING,Warner Bros.-First National Studio Sound Department,,False
+1931,1932,5,WRITING (Adaptation),Sidney Howard,Arrowsmith,False
+1931,1932,5,WRITING (Adaptation),Edwin Burke,Bad Girl,True
+1931,1932,5,WRITING (Adaptation),"Percy Heath, Samuel Hoffenstein",Dr. Jekyll and Mr. Hyde,False
+1931,1932,5,WRITING (Original Story),Frances Marion,The Champ,True
+1931,1932,5,WRITING (Original Story),"Grover Jones, William Slavens McNutt",Lady and Gent,False
+1931,1932,5,WRITING (Original Story),Lucien Hubbard,The Star Witness,False
+1931,1932,5,WRITING (Original Story),"Adela Rogers St. Johns, Jane Murfin",What Price Hollywood?,False
+1931,1932,5,SPECIAL AWARD," Walt Disney for the creation of ""Mickey Mouse.""",,True
+1932,1933,6,ACTOR,Leslie Howard,Berkeley Square,False
+1932,1933,6,ACTOR,Charles Laughton,The Private Life of Henry VIII,True
+1932,1933,6,ACTOR,Paul Muni,I Am a Fugitive from a Chain Gang,False
+1932,1933,6,ACTRESS,Katharine Hepburn,Morning Glory,True
+1932,1933,6,ACTRESS,May Robson,Lady for a Day,False
+1932,1933,6,ACTRESS,Diana Wynyard,Cavalcade,False
+1932,1933,6,ART DIRECTION,William S. Darling,Cavalcade,True
+1932,1933,6,ART DIRECTION,"Hans Dreier, Roland Anderson",A Farewell to Arms,False
+1932,1933,6,ART DIRECTION,Cedric Gibbons,When Ladies Meet,False
+1932,1933,6,ASSISTANT DIRECTOR,Percy Ikerd (Fox),,False
+1932,1933,6,ASSISTANT DIRECTOR,William Tummel (Fox),,True
+1932,1933,6,ASSISTANT DIRECTOR,Charles Dorian (Metro-Goldwyn-Mayer),,True
+1932,1933,6,ASSISTANT DIRECTOR,Bunny Dull (Metro-Goldwyn-Mayer),,False
+1932,1933,6,ASSISTANT DIRECTOR,John S. Waters (Metro-Goldwyn-Mayer),,False
+1932,1933,6,ASSISTANT DIRECTOR,Charles Barton (Paramount),,True
+1932,1933,6,ASSISTANT DIRECTOR,Sidney S. Brod (Paramount),,False
+1932,1933,6,ASSISTANT DIRECTOR,Arthur Jacobson (Paramount),,False
+1932,1933,6,ASSISTANT DIRECTOR,Eddie Killey (RKO Radio),,False
+1932,1933,6,ASSISTANT DIRECTOR,Dewey Starkey (RKO Radio),,True
+1932,1933,6,ASSISTANT DIRECTOR,Fred Fox (United Artists),,True
+1932,1933,6,ASSISTANT DIRECTOR,Benjamin Silvey (United Artists),,False
+1932,1933,6,ASSISTANT DIRECTOR,Scott Beal (Universal),,True
+1932,1933,6,ASSISTANT DIRECTOR,Joe McDonough (Universal),,False
+1932,1933,6,ASSISTANT DIRECTOR,W. J. Reiter (Universal),,False
+1932,1933,6,ASSISTANT DIRECTOR,Al Alborn (Warner Bros.),,False
+1932,1933,6,ASSISTANT DIRECTOR,Gordon Hollingshead (Warner Bros.),,True
+1932,1933,6,ASSISTANT DIRECTOR,Frank X. Shaw (Warner Bros.),,False
+1932,1933,6,CINEMATOGRAPHY,"Charles Bryant Lang, Jr.",A Farewell to Arms,True
+1932,1933,6,CINEMATOGRAPHY,George J. Folsey,Reunion in Vienna,False
+1932,1933,6,CINEMATOGRAPHY,Karl Struss,The Sign of the Cross,False
+1932,1933,6,DIRECTING,Frank Lloyd,Cavalcade,True
+1932,1933,6,DIRECTING,Frank Capra,Lady for a Day,False
+1932,1933,6,DIRECTING,George Cukor,Little Women,False
+1932,1933,6,OUTSTANDING PRODUCTION,Fox,Cavalcade,True
+1932,1933,6,OUTSTANDING PRODUCTION,Paramount,A Farewell to Arms,False
+1932,1933,6,OUTSTANDING PRODUCTION,Warner Bros.,42nd Street,False
+1932,1933,6,OUTSTANDING PRODUCTION,Warner Bros.,I Am a Fugitive from a Chain Gang,False
+1932,1933,6,OUTSTANDING PRODUCTION,Columbia,Lady for a Day,False
+1932,1933,6,OUTSTANDING PRODUCTION,RKO Radio,Little Women,False
+1932,1933,6,OUTSTANDING PRODUCTION,London Films,The Private Life of Henry VIII,False
+1932,1933,6,OUTSTANDING PRODUCTION,Paramount,She Done Him Wrong,False
+1932,1933,6,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Smilin' Through,False
+1932,1933,6,OUTSTANDING PRODUCTION,Fox,State Fair,False
+1932,1933,6,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Building a Building,False
+1932,1933,6,SHORT SUBJECT (Cartoon),"Walter Lantz, Producer",The Merry Old Soul,False
+1932,1933,6,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",The Three Little Pigs,True
+1932,1933,6,SHORT SUBJECT (Comedy),"Warren Doane, Producer",Mister Mugg,False
+1932,1933,6,SHORT SUBJECT (Comedy),"Louis Brock, Producer",A Preferred List,False
+1932,1933,6,SHORT SUBJECT (Comedy),"Louis Brock, Producer",So This Is Harris,True
+1932,1933,6,SHORT SUBJECT (Novelty),"Joe Rock, Producer",Krakatoa,True
+1932,1933,6,SHORT SUBJECT (Novelty),"Pete Smith, Producer",Menu,False
+1932,1933,6,SHORT SUBJECT (Novelty),Educational,The Sea,False
+1932,1933,6,SOUND RECORDING,"Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",A Farewell to Arms,True
+1932,1933,6,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",42nd Street,False
+1932,1933,6,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",Gold Diggers of 1933,False
+1932,1933,6,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",I Am a Fugitive from a Chain Gang,False
+1932,1933,6,WRITING (Adaptation),Robert Riskin,Lady for a Day,False
+1932,1933,6,WRITING (Adaptation),"Victor Heerman, Sarah Y. Mason",Little Women,True
+1932,1933,6,WRITING (Adaptation),"Paul Green, Sonya Levien",State Fair,False
+1932,1933,6,WRITING (Original Story),Robert Lord,One Way Passage,True
+1932,1933,6,WRITING (Original Story),Frances Marion,The Prizefighter and the Lady,False
+1932,1933,6,WRITING (Original Story),Charles MacArthur,Rasputin and the Empress,False
+1934,1935,7,ACTOR,Clark Gable,It Happened One Night,True
+1934,1935,7,ACTOR,Frank Morgan,The Affairs of Cellini,False
+1934,1935,7,ACTOR,William Powell,The Thin Man,False
+1934,1935,7,ACTRESS,Claudette Colbert,It Happened One Night,True
+1934,1935,7,ACTRESS,Bette Davis,Of Human Bondage,False
+1934,1935,7,ACTRESS,Grace Moore,One Night of Love,False
+1934,1935,7,ACTRESS,Norma Shearer,The Barretts of Wimpole Street,False
+1934,1935,7,ART DIRECTION,Richard Day,The Affairs of Cellini,False
+1934,1935,7,ART DIRECTION,"Van Nest Polglase, Carroll Clark",The Gay Divorcee,False
+1934,1935,7,ART DIRECTION,"Cedric Gibbons, Fredric Hope",The Merry Widow,True
+1934,1935,7,ASSISTANT DIRECTOR,Cullen Tate,Cleopatra,False
+1934,1935,7,ASSISTANT DIRECTOR,Scott Beal,Imitation of Life,False
+1934,1935,7,ASSISTANT DIRECTOR,John Waters,Viva Villa!,True
+1934,1935,7,CINEMATOGRAPHY,Charles Rosher,The Affairs of Cellini,False
+1934,1935,7,CINEMATOGRAPHY,Victor Milner,Cleopatra,True
+1934,1935,7,CINEMATOGRAPHY,George Folsey,Operator 13,False
+1934,1935,7,DIRECTING,Frank Capra,It Happened One Night,True
+1934,1935,7,DIRECTING,Victor Schertzinger,One Night of Love,False
+1934,1935,7,DIRECTING,W. S. Van Dyke,The Thin Man,False
+1934,1935,7,FILM EDITING,Anne Bauchens,Cleopatra,False
+1934,1935,7,FILM EDITING,Conrad Nervig,Eskimo,True
+1934,1935,7,FILM EDITING,Gene Milford,One Night of Love,False
+1934,1935,7,MUSIC (Scoring),"RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Kenneth Webb and Samuel Hoffenstein)",The Gay Divorcee,False
+1934,1935,7,MUSIC (Scoring),"RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Max Steiner)",The Lost Patrol,False
+1934,1935,7,MUSIC (Scoring),"Columbia Studio Music Department, Louis Silvers, head of department  (Thematic Music by Victor Schertzinger and Gus Kahn)",One Night of Love,True
+1934,1935,7,MUSIC (Song),Music by Vincent Youmans; Lyrics by Edward Eliscu and Gus Kahn,Flying Down to Rio,False
+1934,1935,7,MUSIC (Song),Music by Con Conrad; Lyrics by Herb Magidson,The Gay Divorcee,True
+1934,1935,7,MUSIC (Song),Music by Ralph Rainger; Lyrics by Leo Robin,She Loves Me Not,False
+1934,1935,7,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Barretts of Wimpole Street,False
+1934,1935,7,OUTSTANDING PRODUCTION,Paramount,Cleopatra,False
+1934,1935,7,OUTSTANDING PRODUCTION,First National,Flirtation Walk,False
+1934,1935,7,OUTSTANDING PRODUCTION,RKO Radio,The Gay Divorcee,False
+1934,1935,7,OUTSTANDING PRODUCTION,Warner Bros.,Here Comes the Navy,False
+1934,1935,7,OUTSTANDING PRODUCTION,20th Century,The House of Rothschild,False
+1934,1935,7,OUTSTANDING PRODUCTION,Universal,Imitation of Life,False
+1934,1935,7,OUTSTANDING PRODUCTION,Columbia,It Happened One Night,True
+1934,1935,7,OUTSTANDING PRODUCTION,Columbia,One Night of Love,False
+1934,1935,7,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Thin Man,False
+1934,1935,7,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Viva Villa!,False
+1934,1935,7,OUTSTANDING PRODUCTION,Jesse L. Lasky (production company),The White Parade,False
+1934,1935,7,SHORT SUBJECT (Cartoon),"Charles Mintz, Producer",Holiday Land,False
+1934,1935,7,SHORT SUBJECT (Cartoon),"Walter Lantz, Producer",Jolly Little Elves,False
+1934,1935,7,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",The Tortoise and the Hare,True
+1934,1935,7,SHORT SUBJECT (Comedy),"Kenneth Macgowan, Producer",La Cucaracha,True
+1934,1935,7,SHORT SUBJECT (Comedy),"Jules White, Producer",Men in Black,False
+1934,1935,7,SHORT SUBJECT (Comedy),Warner Bros.,"What, No Men!",False
+1934,1935,7,SHORT SUBJECT (Novelty),Skibo Productions,Bosom Friends,False
+1934,1935,7,SHORT SUBJECT (Novelty),"Stacy Woodard and Horace Woodard, Producers",City of Wax,True
+1934,1935,7,SHORT SUBJECT (Novelty),"Pete Smith, Producer",Strikes and Spares,False
+1934,1935,7,SOUND RECORDING,"United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",The Affairs of Cellini,False
+1934,1935,7,SOUND RECORDING,"Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",Cleopatra,False
+1934,1935,7,SOUND RECORDING,"Warner Bros.-First National Studio Sound Department, Nathan Levinson, Sound Director",Flirtation Walk,False
+1934,1935,7,SOUND RECORDING,"RKO Radio Studio Sound Department, Carl Dreher, Sound Director",The Gay Divorcee,False
+1934,1935,7,SOUND RECORDING,"Universal Studio Sound Department, Theodore Soderberg, Sound Director",Imitation of Life,False
+1934,1935,7,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",One Night of Love,True
+1934,1935,7,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Viva Villa!,False
+1934,1935,7,SOUND RECORDING,"Fox Studio Sound Department, E. H. Hansen, Sound Director",The White Parade,False
+1934,1935,7,WRITING (Adaptation),Robert Riskin,It Happened One Night,True
+1934,1935,7,WRITING (Adaptation),"Frances Goodrich, Albert Hackett",The Thin Man,False
+1934,1935,7,WRITING (Adaptation),Ben Hecht,Viva Villa!,False
+1934,1935,7,WRITING (Original Story),Mauri Grashin,Hide-Out,False
+1934,1935,7,WRITING (Original Story),Arthur Caesar,Manhattan Melodrama,True
+1934,1935,7,WRITING (Original Story),Norman Krasna,The Richest Girl in the World,False
+1934,1935,7,SPECIAL AWARD, Shirley Temple,,True
+1935,1936,8,ACTOR,Clark Gable,Mutiny on the Bounty,False
+1935,1936,8,ACTOR,Charles Laughton,Mutiny on the Bounty,False
+1935,1936,8,ACTOR,Victor McLaglen,The Informer,True
+1935,1936,8,ACTOR,Paul Muni,Black Fury,False
+1935,1936,8,ACTOR,Franchot Tone,Mutiny on the Bounty,False
+1935,1936,8,ACTRESS,Elisabeth Bergner,Escape Me Never,False
+1935,1936,8,ACTRESS,Claudette Colbert,Private Worlds,False
+1935,1936,8,ACTRESS,Bette Davis,Dangerous,True
+1935,1936,8,ACTRESS,Katharine Hepburn,Alice Adams,False
+1935,1936,8,ACTRESS,Miriam Hopkins,Becky Sharp,False
+1935,1936,8,ACTRESS,Merle Oberon,The Dark Angel,False
+1935,1936,8,ART DIRECTION,Richard Day,The Dark Angel,True
+1935,1936,8,ART DIRECTION,"Hans Dreier, Roland Anderson",The Lives of a Bengal Lancer,False
+1935,1936,8,ART DIRECTION,"Van Nest Polglase, Carroll Clark",Top Hat,False
+1935,1936,8,ASSISTANT DIRECTOR,Joseph Newman,David Copperfield,False
+1935,1936,8,ASSISTANT DIRECTOR,Eric Stacey,Les Miserables,False
+1935,1936,8,ASSISTANT DIRECTOR,"Clem Beauchamp, Paul Wing",The Lives of a Bengal Lancer,True
+1935,1936,8,ASSISTANT DIRECTOR,Sherry Shourds,A Midsummer Night's Dream,False
+1935,1936,8,CINEMATOGRAPHY,Ray June,Barbary Coast,False
+1935,1936,8,CINEMATOGRAPHY,Victor Milner,The Crusades,False
+1935,1936,8,CINEMATOGRAPHY,Gregg Toland,Les Miserables,False
+1935,1936,8,CINEMATOGRAPHY,Hal Mohr,A Midsummer Night's Dream,True
+1935,1936,8,DANCE DIRECTION,Busby Berkeley,Gold Diggers of 1935,False
+1935,1936,8,DANCE DIRECTION,Bobby Connolly,Go into Your Dance;,False
+1935,1936,8,DANCE DIRECTION,Dave Gould,Broadway Melody of 1936;,True
+1935,1936,8,DANCE DIRECTION,Sammy Lee,King of Burlesque,False
+1935,1936,8,DANCE DIRECTION,Hermes Pan,Top Hat,False
+1935,1936,8,DANCE DIRECTION,LeRoy Prinz,Big Broadcast of 1936;,False
+1935,1936,8,DANCE DIRECTION,Benjamin Zemach,She,False
+1935,1936,8,DIRECTING,Michael Curtiz,Captain Blood,False
+1935,1936,8,DIRECTING,John Ford,The Informer,True
+1935,1936,8,DIRECTING,Henry Hathaway,The Lives of a Bengal Lancer,False
+1935,1936,8,DIRECTING,Frank Lloyd,Mutiny on the Bounty,False
+1935,1936,8,FILM EDITING,Robert J. Kern,David Copperfield,False
+1935,1936,8,FILM EDITING,George Hively,The Informer,False
+1935,1936,8,FILM EDITING,Barbara McLean,Les Miserables,False
+1935,1936,8,FILM EDITING,Ellsworth Hoagland,The Lives of a Bengal Lancer,False
+1935,1936,8,FILM EDITING,Ralph Dawson,A Midsummer Night's Dream,True
+1935,1936,8,FILM EDITING,Margaret Booth,Mutiny on the Bounty,False
+1935,1936,8,MUSIC (Scoring),"Warner Bros.-First National Studio Music Department, Leo Forbstein, head of department  (Score by Erich Wolfgang Korngold)",Captain Blood,False
+1935,1936,8,MUSIC (Scoring),"RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Max Steiner)",The Informer,True
+1935,1936,8,MUSIC (Scoring),"Metro-Goldwyn-Mayer Studio Music Department, Nat W. Finston, head of department  (Score by Herbert Stothart)",Mutiny on the Bounty,False
+1935,1936,8,MUSIC (Scoring),"Paramount Studio Music Department, Irvin Talbot, head of department  (Score by Ernst Toch)",Peter Ibbetson,False
+1935,1936,8,MUSIC (Song),Music and Lyrics by Irving Berlin,Top Hat,False
+1935,1936,8,MUSIC (Song),Music by Jerome Kern; Lyrics by Dorothy Fields and Jimmy McHugh,Roberta,False
+1935,1936,8,MUSIC (Song),Music by Harry Warren; Lyrics by Al Dubin,Gold Diggers of 1935,True
+1935,1936,8,OUTSTANDING PRODUCTION,RKO Radio,Alice Adams,False
+1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Broadway Melody of 1936,False
+1935,1936,8,OUTSTANDING PRODUCTION,Cosmopolitan,Captain Blood,False
+1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,David Copperfield,False
+1935,1936,8,OUTSTANDING PRODUCTION,RKO Radio,The Informer,False
+1935,1936,8,OUTSTANDING PRODUCTION,20th Century,Les Miserables,False
+1935,1936,8,OUTSTANDING PRODUCTION,Paramount,The Lives of a Bengal Lancer,False
+1935,1936,8,OUTSTANDING PRODUCTION,Warner Bros.,A Midsummer Night's Dream,False
+1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Mutiny on the Bounty,True
+1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Naughty Marietta,False
+1935,1936,8,OUTSTANDING PRODUCTION,Paramount,Ruggles of Red Gap,False
+1935,1936,8,OUTSTANDING PRODUCTION,RKO Radio,Top Hat,False
+1935,1936,8,SHORT SUBJECT (Cartoon),Harman-Ising,The Calico Dragon,False
+1935,1936,8,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Three Orphan Kittens,True
+1935,1936,8,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Who Killed Cock Robin?,False
+1935,1936,8,SHORT SUBJECT (Comedy),"Jack Chertok, Producer",How to Sleep,True
+1935,1936,8,SHORT SUBJECT (Comedy),"Jules White, Producer","Oh, My Nerves",False
+1935,1936,8,SHORT SUBJECT (Comedy),"Hal Roach, Producer",Tit for Tat,False
+1935,1936,8,SHORT SUBJECT (Novelty),"Pete Smith, Producer",Audioscopiks,False
+1935,1936,8,SHORT SUBJECT (Novelty),Universal,Camera Thrills,False
+1935,1936,8,SHORT SUBJECT (Novelty),Gaumont British and Skibo Productions,Wings over Mt. Everest,True
+1935,1936,8,SOUND RECORDING,"Universal Studio Sound Department, Gilbert Kurland, Sound Director",Bride of Frankenstein,False
+1935,1936,8,SOUND RECORDING,"Warner Bros.-First National Studio Sound Department, Nathan Levinson, Sound Director",Captain Blood,False
+1935,1936,8,SOUND RECORDING,"United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",The Dark Angel,False
+1935,1936,8,SOUND RECORDING,"RKO Radio Studio Sound Department, Carl Dreher, Sound Director",I Dream Too Much,False
+1935,1936,8,SOUND RECORDING,"Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",The Lives of a Bengal Lancer,False
+1935,1936,8,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",Love Me Forever,False
+1935,1936,8,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Naughty Marietta,True
+1935,1936,8,SOUND RECORDING,Republic Studio Sound Department,"$1,000 a Minute",False
+1935,1936,8,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",Thanks a Million,False
+1935,1936,8,WRITING (Original Story),Moss Hart,Broadway Melody of 1936,False
+1935,1936,8,WRITING (Original Story),Gregory Rogers,G-Men,False
+1935,1936,8,WRITING (Original Story),"Don Hartman, Stephen Avery",The Gay Deception,False
+1935,1936,8,WRITING (Original Story),"Ben Hecht, Charles MacArthur",The Scoundrel,True
+1935,1936,8,WRITING (Screenplay),Casey Robinson,Captain Blood,False
+1935,1936,8,WRITING (Screenplay),Dudley Nichols,The Informer,True
+1935,1936,8,WRITING (Screenplay),"Screenplay by Waldemar Young, John L. Balderston, Achmed Abdullah;  Adaptation by Grover Jones, William Slavens McNutt",The Lives of a Bengal Lancer,False
+1935,1936,8,WRITING (Screenplay),"Talbot Jennings, Jules Furthman, Carey Wilson",Mutiny on the Bounty,False
+1935,1936,8,SPECIAL AWARD, David Wark Griffith,,True
+1936,1937,9,ACTOR,Gary Cooper,Mr. Deeds Goes to Town,False
+1936,1937,9,ACTOR,Walter Huston,Dodsworth,False
+1936,1937,9,ACTOR,Paul Muni,The Story of Louis Pasteur,True
+1936,1937,9,ACTOR,William Powell,My Man Godfrey,False
+1936,1937,9,ACTOR,Spencer Tracy,San Francisco,False
+1936,1937,9,ACTOR IN A SUPPORTING ROLE,Mischa Auer,My Man Godfrey,False
+1936,1937,9,ACTOR IN A SUPPORTING ROLE,Walter Brennan,Come and Get It,True
+1936,1937,9,ACTOR IN A SUPPORTING ROLE,Stuart Erwin,Pigskin Parade,False
+1936,1937,9,ACTOR IN A SUPPORTING ROLE,Basil Rathbone,Romeo and Juliet,False
+1936,1937,9,ACTOR IN A SUPPORTING ROLE,Akim Tamiroff,The General Died at Dawn,False
+1936,1937,9,ACTRESS,Irene Dunne,Theodora Goes Wild,False
+1936,1937,9,ACTRESS,Gladys George,Valiant Is the Word for Carrie,False
+1936,1937,9,ACTRESS,Carole Lombard,My Man Godfrey,False
+1936,1937,9,ACTRESS,Luise Rainer,The Great Ziegfeld,True
+1936,1937,9,ACTRESS,Norma Shearer,Romeo and Juliet,False
+1936,1937,9,ACTRESS IN A SUPPORTING ROLE,Beulah Bondi,The Gorgeous Hussy,False
+1936,1937,9,ACTRESS IN A SUPPORTING ROLE,Alice Brady,My Man Godfrey,False
+1936,1937,9,ACTRESS IN A SUPPORTING ROLE,Bonita Granville,These Three,False
+1936,1937,9,ACTRESS IN A SUPPORTING ROLE,Maria Ouspenskaya,Dodsworth,False
+1936,1937,9,ACTRESS IN A SUPPORTING ROLE,Gale Sondergaard,Anthony Adverse,True
+1936,1937,9,ART DIRECTION,Anton Grot,Anthony Adverse,False
+1936,1937,9,ART DIRECTION,Richard Day,Dodsworth,True
+1936,1937,9,ART DIRECTION,"Cedric Gibbons, Eddie Imazu, Edwin B. Willis",The Great Ziegfeld,False
+1936,1937,9,ART DIRECTION,William S. Darling,Lloyds of London,False
+1936,1937,9,ART DIRECTION,"Albert S. D'Agostino, Jack Otterson",The Magnificent Brute,False
+1936,1937,9,ART DIRECTION,"Cedric Gibbons, Fredric Hope, Edwin B. Willis",Romeo and Juliet,False
+1936,1937,9,ART DIRECTION,Perry Ferguson,Winterset,False
+1936,1937,9,ASSISTANT DIRECTOR,William Cannon,Anthony Adverse,False
+1936,1937,9,ASSISTANT DIRECTOR,Jack Sullivan,The Charge of the Light Brigade,True
+1936,1937,9,ASSISTANT DIRECTOR,Eric G. Stacey,The Garden of Allah,False
+1936,1937,9,ASSISTANT DIRECTOR,Clem Beauchamp,The Last of the Mohicans,False
+1936,1937,9,ASSISTANT DIRECTOR,Joseph Newman,San Francisco,False
+1936,1937,9,CINEMATOGRAPHY,Gaetano Gaudio,Anthony Adverse,True
+1936,1937,9,CINEMATOGRAPHY,Victor Milner,The General Died at Dawn,False
+1936,1937,9,CINEMATOGRAPHY,George Folsey,The Gorgeous Hussy,False
+1936,1937,9,DANCE DIRECTION,Busby Berkeley,Gold Diggers of 1937,False
+1936,1937,9,DANCE DIRECTION,Bobby Connolly,Cain and Mabel,False
+1936,1937,9,DANCE DIRECTION,Seymour Felix,The Great Ziegfeld,True
+1936,1937,9,DANCE DIRECTION,Dave Gould,Born to Dance,False
+1936,1937,9,DANCE DIRECTION,Jack Haskell,One in a Million,False
+1936,1937,9,DANCE DIRECTION,Russell Lewis,Dancing Pirate,False
+1936,1937,9,DANCE DIRECTION,Hermes Pan,Swing Time,False
+1936,1937,9,DIRECTING,William Wyler,Dodsworth,False
+1936,1937,9,DIRECTING,Robert Z. Leonard,The Great Ziegfeld,False
+1936,1937,9,DIRECTING,Frank Capra,Mr. Deeds Goes to Town,True
+1936,1937,9,DIRECTING,Gregory La Cava,My Man Godfrey,False
+1936,1937,9,DIRECTING,W. S. Van Dyke,San Francisco,False
+1936,1937,9,FILM EDITING,Ralph Dawson,Anthony Adverse,True
+1936,1937,9,FILM EDITING,Edward Curtiss,Come and Get It,False
+1936,1937,9,FILM EDITING,William S. Gray,The Great Ziegfeld,False
+1936,1937,9,FILM EDITING,Barbara McLean,Lloyds of London,False
+1936,1937,9,FILM EDITING,Conrad A. Nervig,A Tale of Two Cities,False
+1936,1937,9,FILM EDITING,Otto Meyer,Theodora Goes Wild,False
+1936,1937,9,MUSIC (Scoring),"Warner Bros. Studio Music Department, Leo Forbstein, head of department  (Score by Erich Wolfgang Korngold)",Anthony Adverse,True
+1936,1937,9,MUSIC (Scoring),"Warner Bros. Studio Music Department, Leo Forbstein, head of department  (Score by Max Steiner)",The Charge of the Light Brigade,False
+1936,1937,9,MUSIC (Scoring),"Selznick International Pictures Music Department, Max Steiner, head of department  (Score by Max Steiner)",The Garden of Allah,False
+1936,1937,9,MUSIC (Scoring),"Paramount Studio Music Department, Boris Morros, head of department  (Score by Werner Janssen)",The General Died at Dawn,False
+1936,1937,9,MUSIC (Scoring),"RKO Radio Studio Music Department, Nathaniel Shilkret, head of department  (Score by Nathaniel Shilkret)",Winterset,False
+1936,1937,9,MUSIC (Song),Music by Walter Donaldson; Lyrics by Harold Adamson,Suzy,False
+1936,1937,9,MUSIC (Song),Music and Lyrics by Cole Porter,Born to Dance,False
+1936,1937,9,MUSIC (Song),Music by Louis Alter; Lyrics by Sidney Mitchell,Trail of the Lonesome Pine,False
+1936,1937,9,MUSIC (Song),Music by Arthur Johnston; Lyrics by Johnny Burke,Pennies from Heaven,False
+1936,1937,9,MUSIC (Song),Music by Jerome Kern; Lyrics by Dorothy Fields,Swing Time,True
+1936,1937,9,MUSIC (Song),Music by Richard A. Whiting; Lyrics by Walter Bullock,"Sing, Baby, Sing",False
+1936,1937,9,OUTSTANDING PRODUCTION,Warner Bros.,Anthony Adverse,False
+1936,1937,9,OUTSTANDING PRODUCTION,Samuel Goldwyn Productions,Dodsworth,False
+1936,1937,9,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Great Ziegfeld,True
+1936,1937,9,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Libeled Lady,False
+1936,1937,9,OUTSTANDING PRODUCTION,Columbia,Mr. Deeds Goes to Town,False
+1936,1937,9,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Romeo and Juliet,False
+1936,1937,9,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,San Francisco,False
+1936,1937,9,OUTSTANDING PRODUCTION,Cosmopolitan,The Story of Louis Pasteur,False
+1936,1937,9,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,A Tale of Two Cities,False
+1936,1937,9,OUTSTANDING PRODUCTION,Universal,Three Smart Girls,False
+1936,1937,9,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",The Country Cousin,True
+1936,1937,9,SHORT SUBJECT (Cartoon),Harman-Ising,Old Mill Pond,False
+1936,1937,9,SHORT SUBJECT (Cartoon),Paramount,Sinbad the Sailor,False
+1936,1937,9,SHORT SUBJECT (Color),Warner Bros.,Give Me Liberty,True
+1936,1937,9,SHORT SUBJECT (Color),"Lewis Lewyn, Producer",La Fiesta de Santa Barbara,False
+1936,1937,9,SHORT SUBJECT (Color),Paramount,Popular Science J-6-2,False
+1936,1937,9,SHORT SUBJECT (One-reel),"Hal Roach, Producer",Bored of Education,True
+1936,1937,9,SHORT SUBJECT (One-reel),Paramount,Moscow Moods,False
+1936,1937,9,SHORT SUBJECT (One-reel),"Pete Smith, Producer","Wanted, a Master",False
+1936,1937,9,SHORT SUBJECT (Two-reel),Warner Bros.,Double or Nothing,False
+1936,1937,9,SHORT SUBJECT (Two-reel),RKO Radio,Dummy Ache,False
+1936,1937,9,SHORT SUBJECT (Two-reel),Metro-Goldwyn-Mayer,The Public Pays,True
+1936,1937,9,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",Banjo on My Knee,False
+1936,1937,9,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",The Charge of the Light Brigade,False
+1936,1937,9,SOUND RECORDING,"United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",Dodsworth,False
+1936,1937,9,SOUND RECORDING,"Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",General Spanky,False
+1936,1937,9,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",Mr. Deeds Goes to Town,False
+1936,1937,9,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",San Francisco,True
+1936,1937,9,SOUND RECORDING,"Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",The Texas Rangers,False
+1936,1937,9,SOUND RECORDING,"RKO Radio Studio Sound Department, J. O. Aalberg, Sound Director",That Girl from Paris,False
+1936,1937,9,SOUND RECORDING,"Universal Studio Sound Department, Homer G. Tasker, Sound Director",Three Smart Girls,False
+1936,1937,9,WRITING (Original Story),Norman Krasna,Fury,False
+1936,1937,9,WRITING (Original Story),William Anthony McGuire,The Great Ziegfeld,False
+1936,1937,9,WRITING (Original Story),Robert Hopkins,San Francisco,False
+1936,1937,9,WRITING (Original Story),"Pierre Collings, Sheridan Gibney",The Story of Louis Pasteur,True
+1936,1937,9,WRITING (Original Story),Adele Comandini,Three Smart Girls,False
+1936,1937,9,WRITING (Screenplay),"Frances Goodrich, Albert Hackett",After the Thin Man,False
+1936,1937,9,WRITING (Screenplay),Sidney Howard,Dodsworth,False
+1936,1937,9,WRITING (Screenplay),Robert Riskin,Mr. Deeds Goes to Town,False
+1936,1937,9,WRITING (Screenplay),"Eric Hatch, Morris Ryskind",My Man Godfrey,False
+1936,1937,9,WRITING (Screenplay),"Pierre Collings, Sheridan Gibney",The Story of Louis Pasteur,True
+1936,1937,9,SPECIAL AWARD, The March of Time for its significance to motion pictures and for having revolutionized one of the most important branches of the industry - the newsreel.,,True
+1936,1937,9,SPECIAL AWARD, W. Howard Greene and Harold Rosson for the color cinematography of the Selznick International Production,,True

@@ -1,0 +1,1190 @@
+year_film,year_ceremony,ceremony,category,name,film,winner
+1957,1958,30,ACTOR,Marlon Brando,Sayonara,False
+1957,1958,30,ACTOR,Anthony Franciosa,A Hatful of Rain,False
+1957,1958,30,ACTOR,Alec Guinness,The Bridge on the River Kwai,True
+1957,1958,30,ACTOR,Charles Laughton,Witness for the Prosecution,False
+1957,1958,30,ACTOR,Anthony Quinn,Wild Is the Wind,False
+1957,1958,30,ACTOR IN A SUPPORTING ROLE,Red Buttons,Sayonara,True
+1957,1958,30,ACTOR IN A SUPPORTING ROLE,Vittorio De Sica,A Farewell to Arms,False
+1957,1958,30,ACTOR IN A SUPPORTING ROLE,Sessue Hayakawa,The Bridge on the River Kwai,False
+1957,1958,30,ACTOR IN A SUPPORTING ROLE,Arthur Kennedy,Peyton Place,False
+1957,1958,30,ACTOR IN A SUPPORTING ROLE,Russ Tamblyn,Peyton Place,False
+1957,1958,30,ACTRESS,Deborah Kerr,"Heaven Knows, Mr. Allison",False
+1957,1958,30,ACTRESS,Anna Magnani,Wild Is the Wind,False
+1957,1958,30,ACTRESS,Elizabeth Taylor,Raintree County,False
+1957,1958,30,ACTRESS,Lana Turner,Peyton Place,False
+1957,1958,30,ACTRESS,Joanne Woodward,The Three Faces of Eve,True
+1957,1958,30,ACTRESS IN A SUPPORTING ROLE,Carolyn Jones,The Bachelor Party,False
+1957,1958,30,ACTRESS IN A SUPPORTING ROLE,Elsa Lanchester,Witness for the Prosecution,False
+1957,1958,30,ACTRESS IN A SUPPORTING ROLE,Hope Lange,Peyton Place,False
+1957,1958,30,ACTRESS IN A SUPPORTING ROLE,Miyoshi Umeki,Sayonara,True
+1957,1958,30,ACTRESS IN A SUPPORTING ROLE,Diane Varsi,Peyton Place,False
+1957,1958,30,ART DIRECTION,"Art Direction:  Hal Pereira, George W. Davis;  Set Decoration:  Sam Comer, Ray Moyer",Funny Face,False
+1957,1958,30,ART DIRECTION,"Art Direction:  William A. Horning, Gene Allen;  Set Decoration:  Edwin B. Willis, Richard Pefferle",Les Girls,False
+1957,1958,30,ART DIRECTION,"Art Direction:  Walter Holscher;  Set Decoration:  William Kiernan, Louis Diage",Pal Joey,False
+1957,1958,30,ART DIRECTION,"Art Direction:  William A. Horning, Urie McCleary;  Set Decoration:  Edwin B. Willis, Hugh Hunt",Raintree County,False
+1957,1958,30,ART DIRECTION,Art Direction:  Ted Haworth;  Set Decoration:  Robert Priestley,Sayonara,True
+1957,1958,30,CINEMATOGRAPHY,Milton Krasner,An Affair to Remember,False
+1957,1958,30,CINEMATOGRAPHY,Jack Hildyard,The Bridge on the River Kwai,True
+1957,1958,30,CINEMATOGRAPHY,Ray June,Funny Face,False
+1957,1958,30,CINEMATOGRAPHY,William Mellor,Peyton Place,False
+1957,1958,30,CINEMATOGRAPHY,Ellsworth Fredricks,Sayonara,False
+1957,1958,30,COSTUME DESIGN,Charles LeMaire,An Affair to Remember,False
+1957,1958,30,COSTUME DESIGN,"Edith Head, Hubert de Givenchy",Funny Face,False
+1957,1958,30,COSTUME DESIGN,Orry-Kelly,Les Girls,True
+1957,1958,30,COSTUME DESIGN,Jean Louis,Pal Joey,False
+1957,1958,30,COSTUME DESIGN,Walter Plunkett,Raintree County,False
+1957,1958,30,DIRECTING,David Lean,The Bridge on the River Kwai,True
+1957,1958,30,DIRECTING,Mark Robson,Peyton Place,False
+1957,1958,30,DIRECTING,Joshua Logan,Sayonara,False
+1957,1958,30,DIRECTING,Sidney Lumet,12 Angry Men,False
+1957,1958,30,DIRECTING,Billy Wilder,Witness for the Prosecution,False
+1957,1958,30,DOCUMENTARY (Feature),"Jerome Hill, Producer",Albert Schweitzer,True
+1957,1958,30,DOCUMENTARY (Feature),"Lionel Rogosin, Producer",On the Bowery,False
+1957,1958,30,DOCUMENTARY (Feature),"Manuel Barbachano Ponce, Producer",Torero!,False
+1957,1958,30,FILM EDITING,Peter Taylor,The Bridge on the River Kwai,True
+1957,1958,30,FILM EDITING,Warren Low,Gunfight at the O.K. Corral,False
+1957,1958,30,FILM EDITING,"Viola Lawrence, Jerome Thoms",Pal Joey,False
+1957,1958,30,FILM EDITING,"Arthur P. Schmidt, Philip W. Anderson",Sayonara,False
+1957,1958,30,FILM EDITING,Daniel Mandell,Witness for the Prosecution,False
+1957,1958,30,FOREIGN LANGUAGE FILM,West Germany,The Devil Came at Night,False
+1957,1958,30,FOREIGN LANGUAGE FILM,France,Gates of Paris,False
+1957,1958,30,FOREIGN LANGUAGE FILM,India,Mother India,False
+1957,1958,30,FOREIGN LANGUAGE FILM,Italy,The Nights of Cabiria,True
+1957,1958,30,FOREIGN LANGUAGE FILM,Norway,Nine Lives,False
+1957,1958,30,MUSIC (Scoring),Hugo Friedhofer,An Affair to Remember,False
+1957,1958,30,MUSIC (Scoring),Hugo Friedhofer,Boy on a Dolphin,False
+1957,1958,30,MUSIC (Scoring),Malcolm Arnold,The Bridge on the River Kwai,True
+1957,1958,30,MUSIC (Scoring),Paul Smith,Perri,False
+1957,1958,30,MUSIC (Scoring),Johnny Green,Raintree County,False
+1957,1958,30,MUSIC (Song),Music by Harry Warren; Lyrics by Harold Adamson and Leo McCarey,An Affair to Remember,False
+1957,1958,30,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,The Joker Is Wild,True
+1957,1958,30,MUSIC (Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,April Love,False
+1957,1958,30,MUSIC (Song),Music and Lyrics by Ray Evans and Jay Livingston,Tammy and the Bachelor,False
+1957,1958,30,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Ned Washington,Wild Is the Wind,False
+1957,1958,30,BEST MOTION PICTURE,"Sam Spiegel, Producer",The Bridge on the River Kwai,True
+1957,1958,30,BEST MOTION PICTURE,"Jerry Wald, Producer",Peyton Place,False
+1957,1958,30,BEST MOTION PICTURE,"William Goetz, Producer",Sayonara,False
+1957,1958,30,BEST MOTION PICTURE,"Henry Fonda and Reginald Rose, Producers",12 Angry Men,False
+1957,1958,30,BEST MOTION PICTURE,"Arthur Hornblow, Jr., Producer",Witness for the Prosecution,False
+1957,1958,30,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Birds Anonymous,True
+1957,1958,30,SHORT SUBJECT (Cartoon),"William Hanna and Joseph Barbera, Producers",One Droopy Knight,False
+1957,1958,30,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Tabasco Road,False
+1957,1958,30,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Producer",Trees and Jamaica Daddy,False
+1957,1958,30,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",The Truth about Mother Goose,False
+1957,1958,30,SHORT SUBJECT (Live Action),"Norman McLaren, Producer",A Chairy Tale,False
+1957,1958,30,SHORT SUBJECT (Live Action),"Tom Daly, Producer",City of Gold,False
+1957,1958,30,SHORT SUBJECT (Live Action),"James Carr, Producer",Foothold on Antarctica,False
+1957,1958,30,SHORT SUBJECT (Live Action),"Ben Sharpsteen, Producer",Portugal,False
+1957,1958,30,SHORT SUBJECT (Live Action),"Larry Lansburgh, Producer",The Wetback Hound,True
+1957,1958,30,SOUND RECORDING,"Paramount Studio Sound Department, George Dutton, Sound Director",Gunfight at the O.K. Corral,False
+1957,1958,30,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Dr. Wesley C. Miller, Sound Director",Les Girls,False
+1957,1958,30,SOUND RECORDING,"Columbia Studio Sound Department, John P. Livadary, Sound Director",Pal Joey,False
+1957,1958,30,SOUND RECORDING,"Warner Bros. Studio Sound Department, George Groves, Sound Director",Sayonara,True
+1957,1958,30,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",Witness for the Prosecution,False
+1957,1958,30,SPECIAL EFFECTS,Audible Effects by Walter Rossi,The Enemy Below,True
+1957,1958,30,SPECIAL EFFECTS,Visual Effects by Louis Lichtenfield,The Spirit of St. Louis,False
+1957,1958,30,WRITING (Screenplay--based on material from another medium),"Michael Wilson, Carl Foreman, Pierre Boulle",The Bridge on the River Kwai,True
+1957,1958,30,WRITING (Screenplay--based on material from another medium),"John Lee Mahin, John Huston","Heaven Knows, Mr. Allison",False
+1957,1958,30,WRITING (Screenplay--based on material from another medium),John Michael Hayes,Peyton Place,False
+1957,1958,30,WRITING (Screenplay--based on material from another medium),Paul Osborn,Sayonara,False
+1957,1958,30,WRITING (Screenplay--based on material from another medium),Reginald Rose,12 Angry Men,False
+1957,1958,30,WRITING (Story and Screenplay--written directly for the screen),George Wells,Designing Woman,True
+1957,1958,30,WRITING (Story and Screenplay--written directly for the screen),Leonard Gershe,Funny Face,False
+1957,1958,30,WRITING (Story and Screenplay--written directly for the screen),"Story by Ralph Wheelwright;  Screenplay by R. Wright Campbell, Ivan Goff, Ben Roberts",Man of a Thousand Faces,False
+1957,1958,30,WRITING (Story and Screenplay--written directly for the screen),"Story by Barney Slater, Joel Kane;  Screenplay by Dudley Nichols",The Tin Star,False
+1957,1958,30,WRITING (Story and Screenplay--written directly for the screen),"Story by Federico Fellini, Ennio Flaiano, Tullio Pinelli;  Screenplay by Federico Fellini, Ennio Flaiano",Vitelloni,False
+1957,1958,30,JEAN HERSHOLT HUMANITARIAN AWARD,Samuel Goldwyn,,True
+1957,1958,30,HONORARY AWARD, Charles Brackett for outstanding service to the Academy.,,True
+1957,1958,30,HONORARY AWARD, B.B. Kahane for distinguished service to the motion picture industry.,,True
+1957,1958,30,HONORARY AWARD," Gilbert M. (""Broncho Billy"") Anderson",,True
+1957,1958,30,HONORARY AWARD, The Society of Motion Picture and Television Engineers for their contributions to the advancement of the motion picture industry.,,True
+1958,1959,31,ACTOR,Tony Curtis,The Defiant Ones,False
+1958,1959,31,ACTOR,Paul Newman,Cat on a Hot Tin Roof,False
+1958,1959,31,ACTOR,David Niven,Separate Tables,True
+1958,1959,31,ACTOR,Sidney Poitier,The Defiant Ones,False
+1958,1959,31,ACTOR,Spencer Tracy,The Old Man and the Sea,False
+1958,1959,31,ACTOR IN A SUPPORTING ROLE,Theodore Bikel,The Defiant Ones,False
+1958,1959,31,ACTOR IN A SUPPORTING ROLE,Lee J. Cobb,The Brothers Karamazov,False
+1958,1959,31,ACTOR IN A SUPPORTING ROLE,Burl Ives,The Big Country,True
+1958,1959,31,ACTOR IN A SUPPORTING ROLE,Arthur Kennedy,Some Came Running,False
+1958,1959,31,ACTOR IN A SUPPORTING ROLE,Gig Young,Teacher's Pet,False
+1958,1959,31,ACTRESS,Susan Hayward,I Want to Live!,True
+1958,1959,31,ACTRESS,Deborah Kerr,Separate Tables,False
+1958,1959,31,ACTRESS,Shirley MacLaine,Some Came Running,False
+1958,1959,31,ACTRESS,Rosalind Russell,Auntie Mame,False
+1958,1959,31,ACTRESS,Elizabeth Taylor,Cat on a Hot Tin Roof,False
+1958,1959,31,ACTRESS IN A SUPPORTING ROLE,Peggy Cass,Auntie Mame,False
+1958,1959,31,ACTRESS IN A SUPPORTING ROLE,Wendy Hiller,Separate Tables,True
+1958,1959,31,ACTRESS IN A SUPPORTING ROLE,Martha Hyer,Some Came Running,False
+1958,1959,31,ACTRESS IN A SUPPORTING ROLE,Maureen Stapleton,Lonelyhearts,False
+1958,1959,31,ACTRESS IN A SUPPORTING ROLE,Cara Williams,The Defiant Ones,False
+1958,1959,31,ART DIRECTION,Art Direction:  Malcolm Bert;  Set Decoration:  George James Hopkins,Auntie Mame,False
+1958,1959,31,ART DIRECTION,Art Direction:  Cary Odell;  Set Decoration:  Louis Diage,"Bell, Book and Candle",False
+1958,1959,31,ART DIRECTION,"Art Direction:  Lyle R. Wheeler, John DeCuir;  Set Decoration:  Walter M. Scott, Paul S. Fox",A Certain Smile,False
+1958,1959,31,ART DIRECTION,"Art Direction:  William A. Horning, Preston Ames;  Set Decoration:  Henry Grace, Keogh Gleason",Gigi,True
+1958,1959,31,ART DIRECTION,"Art Direction:  Hal Pereira, Henry Bumstead;  Set Decoration:  Sam Comer, Frank McKelvy",Vertigo,False
+1958,1959,31,CINEMATOGRAPHY (Black-and-White),Sam Leavitt,The Defiant Ones,True
+1958,1959,31,CINEMATOGRAPHY (Black-and-White),Daniel L. Fapp,Desire under the Elms,False
+1958,1959,31,CINEMATOGRAPHY (Black-and-White),Lionel Lindon,I Want to Live!,False
+1958,1959,31,CINEMATOGRAPHY (Black-and-White),"Charles Lang, Jr.",Separate Tables,False
+1958,1959,31,CINEMATOGRAPHY (Black-and-White),Joe MacDonald,The Young Lions,False
+1958,1959,31,CINEMATOGRAPHY (Color),"Harry Stradling, Sr.",Auntie Mame,False
+1958,1959,31,CINEMATOGRAPHY (Color),William Daniels,Cat on a Hot Tin Roof,False
+1958,1959,31,CINEMATOGRAPHY (Color),Joseph Ruttenberg,Gigi,True
+1958,1959,31,CINEMATOGRAPHY (Color),James Wong Howe,The Old Man and the Sea,False
+1958,1959,31,CINEMATOGRAPHY (Color),Leon Shamroy,South Pacific,False
+1958,1959,31,COSTUME DESIGN,Jean Louis,"Bell, Book and Candle",False
+1958,1959,31,COSTUME DESIGN,"Ralph Jester, Edith Head, John Jensen",The Buccaneer,False
+1958,1959,31,COSTUME DESIGN,"Charles LeMaire, Mary Wills",A Certain Smile,False
+1958,1959,31,COSTUME DESIGN,Cecil Beaton,Gigi,True
+1958,1959,31,COSTUME DESIGN,Walter Plunkett,Some Came Running,False
+1958,1959,31,DIRECTING,Richard Brooks,Cat on a Hot Tin Roof,False
+1958,1959,31,DIRECTING,Stanley Kramer,The Defiant Ones,False
+1958,1959,31,DIRECTING,Vincente Minnelli,Gigi,True
+1958,1959,31,DIRECTING,Robert Wise,I Want to Live!,False
+1958,1959,31,DIRECTING,Mark Robson,The Inn of the Sixth Happiness,False
+1958,1959,31,DOCUMENTARY (Feature),"James Carr, Producer",Antarctic Crossing,False
+1958,1959,31,DOCUMENTARY (Feature),"Robert Snyder, Producer",The Hidden World,False
+1958,1959,31,DOCUMENTARY (Feature),"Nathan Zucker, Producer",Psychiatric Nursing,False
+1958,1959,31,DOCUMENTARY (Feature),"Ben Sharpsteen, Producer",White Wilderness,True
+1958,1959,31,DOCUMENTARY (Short Subject),"Ben Sharpsteen, Producer",Ama Girls,True
+1958,1959,31,DOCUMENTARY (Short Subject),"Kenneth G. Brown, Producer",Employees Only,False
+1958,1959,31,DOCUMENTARY (Short Subject),"Ian Ferguson, Producer",Journey into Spring,False
+1958,1959,31,DOCUMENTARY (Short Subject),"Tom Daly, Producer",The Living Stone,False
+1958,1959,31,DOCUMENTARY (Short Subject),"Thorold Dickinson, Producer",Overture,False
+1958,1959,31,FILM EDITING,William Ziegler,Auntie Mame,False
+1958,1959,31,FILM EDITING,"William A. Lyon, Al Clark",Cowboy,False
+1958,1959,31,FILM EDITING,Frederic Knudtson,The Defiant Ones,False
+1958,1959,31,FILM EDITING,Adrienne Fazan,Gigi,True
+1958,1959,31,FILM EDITING,William Hornbeck,I Want to Live!,False
+1958,1959,31,FOREIGN LANGUAGE FILM,West Germany,Arms and the Man,False
+1958,1959,31,FOREIGN LANGUAGE FILM,Spain,La Venganza,False
+1958,1959,31,FOREIGN LANGUAGE FILM,France,My Uncle,True
+1958,1959,31,FOREIGN LANGUAGE FILM,Yugoslavia,The Road a Year Long,False
+1958,1959,31,FOREIGN LANGUAGE FILM,Italy,The Usual Unidentified Thieves,False
+1958,1959,31,MUSIC (Music Score of a Dramatic or Comedy Picture),Jerome Moross,The Big Country,False
+1958,1959,31,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,The Old Man and the Sea,True
+1958,1959,31,MUSIC (Music Score of a Dramatic or Comedy Picture),David Raksin,Separate Tables,False
+1958,1959,31,MUSIC (Music Score of a Dramatic or Comedy Picture),Oliver Wallace,White Wilderness,False
+1958,1959,31,MUSIC (Music Score of a Dramatic or Comedy Picture),Hugo Friedhofer,The Young Lions,False
+1958,1959,31,MUSIC (Scoring of a Musical Picture),"Yuri Faier, G. Rozhdestvensky",The Bolshoi Ballet,False
+1958,1959,31,MUSIC (Scoring of a Musical Picture),Ray Heindorf,Damn Yankees,False
+1958,1959,31,MUSIC (Scoring of a Musical Picture),Andre Previn,Gigi,True
+1958,1959,31,MUSIC (Scoring of a Musical Picture),Lionel Newman,Mardi Gras,False
+1958,1959,31,MUSIC (Scoring of a Musical Picture),"Alfred Newman, Ken Darby",South Pacific,False
+1958,1959,31,MUSIC (Song),Music and Lyrics by Jay Livingston and Ray Evans,Houseboat,False
+1958,1959,31,MUSIC (Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,A Certain Smile,False
+1958,1959,31,MUSIC (Song),Music by Frederick Loewe; Lyrics by Alan Jay Lerner,Gigi,True
+1958,1959,31,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,Some Came Running,False
+1958,1959,31,MUSIC (Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,Marjorie Morningstar,False
+1958,1959,31,BEST MOTION PICTURE,Warner Bros.,Auntie Mame,False
+1958,1959,31,BEST MOTION PICTURE,"Lawrence Weingarten, Producer",Cat on a Hot Tin Roof,False
+1958,1959,31,BEST MOTION PICTURE,"Stanley Kramer, Producer",The Defiant Ones,False
+1958,1959,31,BEST MOTION PICTURE,"Arthur Freed, Producer",Gigi,True
+1958,1959,31,BEST MOTION PICTURE,"Harold Hecht, Producer",Separate Tables,False
+1958,1959,31,SHORT SUBJECT (Cartoon),"John W. Burton, Producer",Knighty Knight Bugs,True
+1958,1959,31,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Paul Bunyan,False
+1958,1959,31,SHORT SUBJECT (Cartoon),"William M. Weiss, Producer",Sidney's Family Tree,False
+1958,1959,31,SHORT SUBJECT (Live Action),"Walt Disney, Producer",Grand Canyon,True
+1958,1959,31,SHORT SUBJECT (Live Action),"Ian Ferguson, Producer",Journey into Spring,False
+1958,1959,31,SHORT SUBJECT (Live Action),"John Patrick Hayes, Producer",The Kiss,False
+1958,1959,31,SHORT SUBJECT (Live Action),New Zealand Screen Board,Snows of Aorangi,False
+1958,1959,31,SHORT SUBJECT (Live Action),"James A. Lebenthal, Producer",T Is for Tumbleweed,False
+1958,1959,31,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",I Want to Live!,False
+1958,1959,31,SOUND,"Todd-AO Sound Department, Fred Hynes, Sound Director",South Pacific,True
+1958,1959,31,SOUND,"Universal-International Studio Sound Department, Leslie I. Carey, Sound Director",A Time to Love and a Time to Die,False
+1958,1959,31,SOUND,"Paramount Studio Sound Department, George Dutton, Sound Director",Vertigo,False
+1958,1959,31,SOUND,"20th Century-Fox Studio Sound Department, Carl Faulkner, Sound Director",The Young Lions,False
+1958,1959,31,SPECIAL EFFECTS,Visual Effects by Tom Howard,tom thumb,True
+1958,1959,31,SPECIAL EFFECTS,Visual Effects by A. Arnold Gillespie; Audible Effects by Harold Humbrock,Torpedo Run,False
+1958,1959,31,WRITING (Screenplay--based on material from another medium),"Richard Brooks, James Poe",Cat on a Hot Tin Roof,False
+1958,1959,31,WRITING (Screenplay--based on material from another medium),Alan Jay Lerner,Gigi,True
+1958,1959,31,WRITING (Screenplay--based on material from another medium),Alec Guinness,The Horse's Mouth,False
+1958,1959,31,WRITING (Screenplay--based on material from another medium),"Nelson Gidding, Don Mankiewicz",I Want to Live!,False
+1958,1959,31,WRITING (Screenplay--based on material from another medium),"Terence Rattigan, John Gay",Separate Tables,False
+1958,1959,31,WRITING (Story and Screenplay--written directly for the screen),"Nedrick Young, Harold Jacob Smith",The Defiant Ones,True
+1958,1959,31,WRITING (Story and Screenplay--written directly for the screen),Paddy Chayefsky,The Goddess,False
+1958,1959,31,WRITING (Story and Screenplay--written directly for the screen),"Melville Shavelson, Jack Rose",Houseboat,False
+1958,1959,31,WRITING (Story and Screenplay--written directly for the screen),"Story by James Edward Grant;  Screenplay by William Bowers, James Edward Grant",The Sheepman,False
+1958,1959,31,WRITING (Story and Screenplay--written directly for the screen),"Fay Kanin, Michael Kanin",Teacher's Pet,False
+1958,1959,31,HONORARY AWARD, Maurice Chevalier for his contributions to the world of entertainment for more than half a century.,,True
+1958,1959,31,IRVING G. THALBERG MEMORIAL AWARD,Jack L. Warner,,True
+1959,1960,32,ACTOR,Laurence Harvey,Room at the Top,False
+1959,1960,32,ACTOR,Charlton Heston,Ben-Hur,True
+1959,1960,32,ACTOR,Jack Lemmon,Some Like It Hot,False
+1959,1960,32,ACTOR,Paul Muni,The Last Angry Man,False
+1959,1960,32,ACTOR,James Stewart,Anatomy of a Murder,False
+1959,1960,32,ACTOR IN A SUPPORTING ROLE,Hugh Griffith,Ben-Hur,True
+1959,1960,32,ACTOR IN A SUPPORTING ROLE,Arthur O'Connell,Anatomy of a Murder,False
+1959,1960,32,ACTOR IN A SUPPORTING ROLE,George C. Scott,Anatomy of a Murder,False
+1959,1960,32,ACTOR IN A SUPPORTING ROLE,Robert Vaughn,The Young Philadelphians,False
+1959,1960,32,ACTOR IN A SUPPORTING ROLE,Ed Wynn,The Diary of Anne Frank,False
+1959,1960,32,ACTRESS,Doris Day,Pillow Talk,False
+1959,1960,32,ACTRESS,Audrey Hepburn,The Nun's Story,False
+1959,1960,32,ACTRESS,Katharine Hepburn,"Suddenly, Last Summer",False
+1959,1960,32,ACTRESS,Simone Signoret,Room at the Top,True
+1959,1960,32,ACTRESS,Elizabeth Taylor,"Suddenly, Last Summer",False
+1959,1960,32,ACTRESS IN A SUPPORTING ROLE,Hermione Baddeley,Room at the Top,False
+1959,1960,32,ACTRESS IN A SUPPORTING ROLE,Susan Kohner,Imitation of Life,False
+1959,1960,32,ACTRESS IN A SUPPORTING ROLE,Juanita Moore,Imitation of Life,False
+1959,1960,32,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,Pillow Talk,False
+1959,1960,32,ACTRESS IN A SUPPORTING ROLE,Shelley Winters,The Diary of Anne Frank,True
+1959,1960,32,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Walter Tyler;  Set Decoration:  Sam Comer, Arthur Krams",Career,False
+1959,1960,32,ART DIRECTION (Black-and-White),"Art Direction:  Lyle R. Wheeler, George W. Davis;  Set Decoration:  Walter M. Scott, Stuart A. Reiss",The Diary of Anne Frank,True
+1959,1960,32,ART DIRECTION (Black-and-White),Art Direction:  Carl Anderson;  Set Decoration:  William Kiernan,The Last Angry Man,False
+1959,1960,32,ART DIRECTION (Black-and-White),Art Direction:  Ted Haworth;  Set Decoration:  Edward G. Boyle,Some Like It Hot,False
+1959,1960,32,ART DIRECTION (Black-and-White),"Art Direction:  Oliver Messel, William Kellner;  Set Decoration:  Scot Slimon","Suddenly, Last Summer",False
+1959,1960,32,ART DIRECTION (Color),"Art Direction:  William A. Horning, Edward Carfagno;  Set Decoration:  Hugh Hunt",Ben-Hur,True
+1959,1960,32,ART DIRECTION (Color),Art Direction:  John DeCuir;  Set Decoration:  Julia Heron,The Big Fisherman,False
+1959,1960,32,ART DIRECTION (Color),"Art Direction:  Lyle R. Wheeler, Franz Bachelin, Herman A. Blumenthal;  Set Decoration:  Walter M. Scott, Joseph Kish",Journey to the Center of the Earth,False
+1959,1960,32,ART DIRECTION (Color),"Art Direction:  William A. Horning, Robert Boyle, Merrill Pye;  Set Decoration:  Henry Grace, Frank McKelvy",North by Northwest,False
+1959,1960,32,ART DIRECTION (Color),"Art Direction:  Richard H. Riedel;  Set Decoration:  Russell A. Gausman, Ruby R. Levitt",Pillow Talk,False
+1959,1960,32,CINEMATOGRAPHY (Black-and-White),Sam Leavitt,Anatomy of a Murder,False
+1959,1960,32,CINEMATOGRAPHY (Black-and-White),Joseph LaShelle,Career,False
+1959,1960,32,CINEMATOGRAPHY (Black-and-White),William C. Mellor,The Diary of Anne Frank,True
+1959,1960,32,CINEMATOGRAPHY (Black-and-White),"Charles Lang, Jr.",Some Like It Hot,False
+1959,1960,32,CINEMATOGRAPHY (Black-and-White),"Harry Stradling, Sr.",The Young Philadelphians,False
+1959,1960,32,CINEMATOGRAPHY (Color),Robert L. Surtees,Ben-Hur,True
+1959,1960,32,CINEMATOGRAPHY (Color),Lee Garmes,The Big Fisherman,False
+1959,1960,32,CINEMATOGRAPHY (Color),Daniel L. Fapp,The Five Pennies,False
+1959,1960,32,CINEMATOGRAPHY (Color),Franz Planer,The Nun's Story,False
+1959,1960,32,CINEMATOGRAPHY (Color),Leon Shamroy,Porgy and Bess,False
+1959,1960,32,COSTUME DESIGN (Black-and-White),Edith Head,Career,False
+1959,1960,32,COSTUME DESIGN (Black-and-White),"Charles LeMaire, Mary Wills",The Diary of Anne Frank,False
+1959,1960,32,COSTUME DESIGN (Black-and-White),Helen Rose,The Gazebo,False
+1959,1960,32,COSTUME DESIGN (Black-and-White),Orry-Kelly,Some Like It Hot,True
+1959,1960,32,COSTUME DESIGN (Black-and-White),Howard Shoup,The Young Philadelphians,False
+1959,1960,32,COSTUME DESIGN (Color),Elizabeth Haffenden,Ben-Hur,True
+1959,1960,32,COSTUME DESIGN (Color),Adele Palmer,The Best of Everything,False
+1959,1960,32,COSTUME DESIGN (Color),Renie,The Big Fisherman,False
+1959,1960,32,COSTUME DESIGN (Color),Edith Head,The Five Pennies,False
+1959,1960,32,COSTUME DESIGN (Color),Irene Sharaff,Porgy and Bess,False
+1959,1960,32,DIRECTING,William Wyler,Ben-Hur,True
+1959,1960,32,DIRECTING,George Stevens,The Diary of Anne Frank,False
+1959,1960,32,DIRECTING,Fred Zinnemann,The Nun's Story,False
+1959,1960,32,DIRECTING,Jack Clayton,Room at the Top,False
+1959,1960,32,DIRECTING,Billy Wilder,Some Like It Hot,False
+1959,1960,32,DOCUMENTARY (Feature),"David L. Wolper, Producer",The Race for Space,False
+1959,1960,32,DOCUMENTARY (Feature),"Bernhard Grzimek, Producer",Serengeti Shall Not Die,True
+1959,1960,32,DOCUMENTARY (Short Subject),"Walt Disney, Producer",Donald in Mathmagic Land,False
+1959,1960,32,DOCUMENTARY (Short Subject),"Edward F. Cullen, Producer",From Generation to Generation,False
+1959,1960,32,DOCUMENTARY (Short Subject),"Bert Haanstra, Producer",Glass,True
+1959,1960,32,FILM EDITING,Louis R. Loeffler,Anatomy of a Murder,False
+1959,1960,32,FILM EDITING,"Ralph E. Winters, John D. Dunning",Ben-Hur,True
+1959,1960,32,FILM EDITING,George Tomasini,North by Northwest,False
+1959,1960,32,FILM EDITING,Walter Thompson,The Nun's Story,False
+1959,1960,32,FILM EDITING,Frederic Knudtson,On the Beach,False
+1959,1960,32,FOREIGN LANGUAGE FILM,France,Black Orpheus,True
+1959,1960,32,FOREIGN LANGUAGE FILM,West Germany,The Bridge,False
+1959,1960,32,FOREIGN LANGUAGE FILM,Italy,The Great War,False
+1959,1960,32,FOREIGN LANGUAGE FILM,Denmark,Paw,False
+1959,1960,32,FOREIGN LANGUAGE FILM,The Netherlands,The Village on the River,False
+1959,1960,32,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,Ben-Hur,True
+1959,1960,32,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,The Diary of Anne Frank,False
+1959,1960,32,MUSIC (Music Score of a Dramatic or Comedy Picture),Franz Waxman,The Nun's Story,False
+1959,1960,32,MUSIC (Music Score of a Dramatic or Comedy Picture),Ernest Gold,On the Beach,False
+1959,1960,32,MUSIC (Music Score of a Dramatic or Comedy Picture),Frank DeVol,Pillow Talk,False
+1959,1960,32,MUSIC (Scoring of a Musical Picture),Leith Stevens,The Five Pennies,False
+1959,1960,32,MUSIC (Scoring of a Musical Picture),"Nelson Riddle, Joseph J. Lilley",Li'l Abner,False
+1959,1960,32,MUSIC (Scoring of a Musical Picture),"Andre Previn, Ken Darby",Porgy and Bess,True
+1959,1960,32,MUSIC (Scoring of a Musical Picture),Lionel Newman,Say One for Me,False
+1959,1960,32,MUSIC (Scoring of a Musical Picture),George Bruns,Sleeping Beauty,False
+1959,1960,32,MUSIC (Song),Music by Alfred Newman; Lyrics by Sammy Cahn,The Best of Everything,False
+1959,1960,32,MUSIC (Song),Music and Lyrics by Sylvia Fine,The Five Pennies,False
+1959,1960,32,MUSIC (Song),Music by Jerry Livingston; Lyrics by Mack David,The Hanging Tree,False
+1959,1960,32,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,A Hole in the Head,True
+1959,1960,32,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Ned Washington,The Young Land,False
+1959,1960,32,BEST MOTION PICTURE,"Otto Preminger, Producer",Anatomy of a Murder,False
+1959,1960,32,BEST MOTION PICTURE,"Sam Zimbalist, Producer",Ben-Hur,True
+1959,1960,32,BEST MOTION PICTURE,"George Stevens, Producer",The Diary of Anne Frank,False
+1959,1960,32,BEST MOTION PICTURE,"Henry Blanke, Producer",The Nun's Story,False
+1959,1960,32,BEST MOTION PICTURE,"John Woolf and James Woolf, Producers",Room at the Top,False
+1959,1960,32,SHORT SUBJECT (Cartoon),"John W. Burton, Producer",Mexicali Shmoes,False
+1959,1960,32,SHORT SUBJECT (Cartoon),"John Hubley, Producer",Moonbird,True
+1959,1960,32,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Noah's Ark,False
+1959,1960,32,SHORT SUBJECT (Cartoon),"Ernest Pintoff, Producer",The Violinist,False
+1959,1960,32,SHORT SUBJECT (Live Action),"Ian Ferguson, Producer",Between the Tides,False
+1959,1960,32,SHORT SUBJECT (Live Action),"Jacques-Yves Cousteau, Producer",The Golden Fish,True
+1959,1960,32,SHORT SUBJECT (Live Action),"Walt Disney, Producer",Mysteries of the Deep,False
+1959,1960,32,SHORT SUBJECT (Live Action),"Peter Sellers, Producer","The Running, Jumping and Standing-Still Film",False
+1959,1960,32,SHORT SUBJECT (Live Action),"Shirley Clarke, Willard Van Dyke and Irving Jacoby, Producers",Skyscraper,False
+1959,1960,32,SOUND,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",Ben-Hur,True
+1959,1960,32,SOUND,"20th Century-Fox Studio Sound Department, Carl Faulkner, Sound Director",Journey to the Center of the Earth,False
+1959,1960,32,SOUND,"Metro-Goldwyn-Mayer London Studio Sound Department, A. W. Watkins, Sound Director",Libel!,False
+1959,1960,32,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",The Nun's Story,False
+1959,1960,32,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",Porgy and Bess,False
+1959,1960,32,SPECIAL EFFECTS,"Visual Effects by A. Arnold Gillespie, Robert MacDonald; Audible Effects by Milo Lory",Ben-Hur,True
+1959,1960,32,SPECIAL EFFECTS,"Visual Effects by L. B. Abbott, James B. Gordon; Audible Effects by Carl Faulkner",Journey to the Center of the Earth,False
+1959,1960,32,WRITING (Screenplay--based on material from another medium),Wendell Mayes,Anatomy of a Murder,False
+1959,1960,32,WRITING (Screenplay--based on material from another medium),Karl Tunberg,Ben-Hur,False
+1959,1960,32,WRITING (Screenplay--based on material from another medium),Robert Anderson,The Nun's Story,False
+1959,1960,32,WRITING (Screenplay--based on material from another medium),Neil Paterson,Room at the Top,True
+1959,1960,32,WRITING (Screenplay--based on material from another medium),"Billy Wilder, I. A. L. Diamond",Some Like It Hot,False
+1959,1960,32,WRITING (Story and Screenplay--written directly for the screen),"Francois Truffaut, Marcel Moussy",The 400 Blows,False
+1959,1960,32,WRITING (Story and Screenplay--written directly for the screen),Ernest Lehman,North by Northwest,False
+1959,1960,32,WRITING (Story and Screenplay--written directly for the screen),"Story by Paul King, Joseph Stone;  Screenplay by Stanley Shapiro, Maurice Richlin",Operation Petticoat,False
+1959,1960,32,WRITING (Story and Screenplay--written directly for the screen),"Story by Russell Rouse, Clarence Greene;  Screenplay by Stanley Shapiro, Maurice Richlin",Pillow Talk,True
+1959,1960,32,WRITING (Story and Screenplay--written directly for the screen),Ingmar Bergman,Wild Strawberries,False
+1959,1960,32,JEAN HERSHOLT HUMANITARIAN AWARD,Bob Hope,,True
+1959,1960,32,HONORARY AWARD, Lee De Forest for his pioneering inventions which brought sound to the motion picture.,,True
+1959,1960,32,HONORARY AWARD, Buster Keaton for his unique talents which brought immortal comedies to the screen.,,True
+1960,1961,33,ACTOR,Trevor Howard,Sons and Lovers,False
+1960,1961,33,ACTOR,Burt Lancaster,Elmer Gantry,True
+1960,1961,33,ACTOR,Jack Lemmon,The Apartment,False
+1960,1961,33,ACTOR,Laurence Olivier,The Entertainer,False
+1960,1961,33,ACTOR,Spencer Tracy,Inherit the Wind,False
+1960,1961,33,ACTOR IN A SUPPORTING ROLE,Peter Falk,"Murder, Inc.",False
+1960,1961,33,ACTOR IN A SUPPORTING ROLE,Jack Kruschen,The Apartment,False
+1960,1961,33,ACTOR IN A SUPPORTING ROLE,Sal Mineo,Exodus,False
+1960,1961,33,ACTOR IN A SUPPORTING ROLE,Peter Ustinov,Spartacus,True
+1960,1961,33,ACTOR IN A SUPPORTING ROLE,Chill Wills,The Alamo,False
+1960,1961,33,ACTRESS,Greer Garson,Sunrise at Campobello,False
+1960,1961,33,ACTRESS,Deborah Kerr,The Sundowners,False
+1960,1961,33,ACTRESS,Shirley MacLaine,The Apartment,False
+1960,1961,33,ACTRESS,Melina Mercouri,Never on Sunday,False
+1960,1961,33,ACTRESS,Elizabeth Taylor,Butterfield 8,True
+1960,1961,33,ACTRESS IN A SUPPORTING ROLE,Glynis Johns,The Sundowners,False
+1960,1961,33,ACTRESS IN A SUPPORTING ROLE,Shirley Jones,Elmer Gantry,True
+1960,1961,33,ACTRESS IN A SUPPORTING ROLE,Shirley Knight,The Dark at the Top of the Stairs,False
+1960,1961,33,ACTRESS IN A SUPPORTING ROLE,Janet Leigh,Psycho,False
+1960,1961,33,ACTRESS IN A SUPPORTING ROLE,Mary Ure,Sons and Lovers,False
+1960,1961,33,ART DIRECTION (Black-and-White),Art Direction:  Alexander Trauner;  Set Decoration:  Edward G. Boyle,The Apartment,True
+1960,1961,33,ART DIRECTION (Black-and-White),"Art Direction:  Joseph McMillan Johnson, Kenneth A. Reid;  Set Decoration:  Ross Dowd",The Facts of Life,False
+1960,1961,33,ART DIRECTION (Black-and-White),"Art Direction:  Joseph Hurley, Robert Clatworthy;  Set Decoration:  George Milo",Psycho,False
+1960,1961,33,ART DIRECTION (Black-and-White),Art Direction:  Tom Morahan;  Set Decoration:  Lionel Couch,Sons and Lovers,False
+1960,1961,33,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Walter Tyler;  Set Decoration:  Sam Comer, Arthur Krams",Visit to a Small Planet,False
+1960,1961,33,ART DIRECTION (Color),"Art Direction:  George W. Davis, Addison Hehr;  Set Decoration:  Henry Grace, Hugh Hunt, Otto Siegel",Cimarron,False
+1960,1961,33,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Arrigo Breschi",It Started in Naples,False
+1960,1961,33,ART DIRECTION (Color),Art Direction:  Ted Haworth;  Set Decoration:  William Kiernan,Pepe,False
+1960,1961,33,ART DIRECTION (Color),"Art Direction:  Alexander Golitzen, Eric Orbom;  Set Decoration:  Russell A. Gausman, Julia Heron",Spartacus,True
+1960,1961,33,ART DIRECTION (Color),Art Direction:  Edward Carrere;  Set Decoration:  George James Hopkins,Sunrise at Campobello,False
+1960,1961,33,CINEMATOGRAPHY (Black-and-White),Joseph LaShelle,The Apartment,False
+1960,1961,33,CINEMATOGRAPHY (Black-and-White),"Charles B. Lang, Jr.",The Facts of Life,False
+1960,1961,33,CINEMATOGRAPHY (Black-and-White),Ernest Laszlo,Inherit the Wind,False
+1960,1961,33,CINEMATOGRAPHY (Black-and-White),John L. Russell,Psycho,False
+1960,1961,33,CINEMATOGRAPHY (Black-and-White),Freddie Francis,Sons and Lovers,True
+1960,1961,33,CINEMATOGRAPHY (Color),William H. Clothier,The Alamo,False
+1960,1961,33,CINEMATOGRAPHY (Color),"Joseph Ruttenberg, Charles Harten",Butterfield 8,False
+1960,1961,33,CINEMATOGRAPHY (Color),Sam Leavitt,Exodus,False
+1960,1961,33,CINEMATOGRAPHY (Color),Joe MacDonald,Pepe,False
+1960,1961,33,CINEMATOGRAPHY (Color),Russell Metty,Spartacus,True
+1960,1961,33,COSTUME DESIGN (Black-and-White),"Edith Head, Edward Stevenson",The Facts of Life,True
+1960,1961,33,COSTUME DESIGN (Black-and-White),Deni Vachlioti,Never on Sunday,False
+1960,1961,33,COSTUME DESIGN (Black-and-White),Howard Shoup,The Rise and Fall of Legs Diamond,False
+1960,1961,33,COSTUME DESIGN (Black-and-White),Bill Thomas,Seven Thieves,False
+1960,1961,33,COSTUME DESIGN (Black-and-White),Marik Vos,The Virgin Spring,False
+1960,1961,33,COSTUME DESIGN (Color),Irene Sharaff,Can-Can,False
+1960,1961,33,COSTUME DESIGN (Color),Irene,Midnight Lace,False
+1960,1961,33,COSTUME DESIGN (Color),Edith Head,Pepe,False
+1960,1961,33,COSTUME DESIGN (Color),"Valles, Bill Thomas",Spartacus,True
+1960,1961,33,COSTUME DESIGN (Color),Marjorie Best,Sunrise at Campobello,False
+1960,1961,33,DIRECTING,Billy Wilder,The Apartment,True
+1960,1961,33,DIRECTING,Jules Dassin,Never on Sunday,False
+1960,1961,33,DIRECTING,Alfred Hitchcock,Psycho,False
+1960,1961,33,DIRECTING,Jack Cardiff,Sons and Lovers,False
+1960,1961,33,DIRECTING,Fred Zinnemann,The Sundowners,False
+1960,1961,33,DOCUMENTARY (Feature),"Larry Lansburgh, Producer",The Horse with the Flying Tail,True
+1960,1961,33,DOCUMENTARY (Feature),"Robert D. Fraser, Producer",Rebel in Paradise,False
+1960,1961,33,DOCUMENTARY (Short Subject),United States Information Agency,Beyond Silence,False
+1960,1961,33,DOCUMENTARY (Short Subject),"Statens Filmcentral, The Danish Government Film Office",A City Called Copenhagen,False
+1960,1961,33,DOCUMENTARY (Short Subject),"Charles Carey and Altina Carey, Producers",George Grosz' Interregnum,False
+1960,1961,33,DOCUMENTARY (Short Subject),"James Hill, Producer",Giuseppina,True
+1960,1961,33,DOCUMENTARY (Short Subject),"Colin Low, Producer",Universe,False
+1960,1961,33,FILM EDITING,Stuart Gilmore,The Alamo,False
+1960,1961,33,FILM EDITING,Daniel Mandell,The Apartment,True
+1960,1961,33,FILM EDITING,Frederic Knudtson,Inherit the Wind,False
+1960,1961,33,FILM EDITING,"Viola Lawrence, Al Clark",Pepe,False
+1960,1961,33,FILM EDITING,Robert Lawrence,Spartacus,False
+1960,1961,33,FOREIGN LANGUAGE FILM,Italy,Kapo,False
+1960,1961,33,FOREIGN LANGUAGE FILM,France,La Vérité,False
+1960,1961,33,FOREIGN LANGUAGE FILM,Mexico,Macario,False
+1960,1961,33,FOREIGN LANGUAGE FILM,Yugoslavia,The Ninth Circle,False
+1960,1961,33,FOREIGN LANGUAGE FILM,Sweden,The Virgin Spring,True
+1960,1961,33,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,The Alamo,False
+1960,1961,33,MUSIC (Music Score of a Dramatic or Comedy Picture),Andre Previn,Elmer Gantry,False
+1960,1961,33,MUSIC (Music Score of a Dramatic or Comedy Picture),Ernest Gold,Exodus,True
+1960,1961,33,MUSIC (Music Score of a Dramatic or Comedy Picture),Elmer Bernstein,The Magnificent Seven,False
+1960,1961,33,MUSIC (Music Score of a Dramatic or Comedy Picture),Alex North,Spartacus,False
+1960,1961,33,MUSIC (Scoring of a Musical Picture),Andre Previn,Bells Are Ringing,False
+1960,1961,33,MUSIC (Scoring of a Musical Picture),Nelson Riddle,Can-Can,False
+1960,1961,33,MUSIC (Scoring of a Musical Picture),"Lionel Newman, Earle H. Hagen",Let's Make Love,False
+1960,1961,33,MUSIC (Scoring of a Musical Picture),Johnny Green,Pepe,False
+1960,1961,33,MUSIC (Scoring of a Musical Picture),"Morris Stoloff, Harry Sukman",Song without End (The Story of Franz Liszt),True
+1960,1961,33,MUSIC (Song),Music and Lyrics by Johnny Mercer,The Facts of Life,False
+1960,1961,33,MUSIC (Song),Music by Andre Previn; Lyrics by Dory Langdon,Pepe,False
+1960,1961,33,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Paul Francis Webster,The Alamo,False
+1960,1961,33,MUSIC (Song),Music and Lyrics by Manos Hadjidakis,Never on Sunday,True
+1960,1961,33,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,High Time,False
+1960,1961,33,BEST MOTION PICTURE,"John Wayne, Producer",The Alamo,False
+1960,1961,33,BEST MOTION PICTURE,"Billy Wilder, Producer",The Apartment,True
+1960,1961,33,BEST MOTION PICTURE,"Bernard Smith, Producer",Elmer Gantry,False
+1960,1961,33,BEST MOTION PICTURE,"Jerry Wald, Producer",Sons and Lovers,False
+1960,1961,33,BEST MOTION PICTURE,"Fred Zinnemann, Producer",The Sundowners,False
+1960,1961,33,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Goliath II,False
+1960,1961,33,SHORT SUBJECT (Cartoon),Warner Bros.,High Note,False
+1960,1961,33,SHORT SUBJECT (Cartoon),Warner Bros.,Mouse and Garden,False
+1960,1961,33,SHORT SUBJECT (Cartoon),"William L. Snyder, Producer",Munro,True
+1960,1961,33,SHORT SUBJECT (Cartoon),"Frantisek Vystrecil, Producer",A Place in the Sun,False
+1960,1961,33,SHORT SUBJECT (Live Action),"Charles F. Schwep and Ismail Merchant, Producers",The Creation of Woman,False
+1960,1961,33,SHORT SUBJECT (Live Action),"Ezra R. Baker, Producer",Day of the Painter,True
+1960,1961,33,SHORT SUBJECT (Live Action),"Walt Disney, Producer",Islands of the Sea,False
+1960,1961,33,SHORT SUBJECT (Live Action),"Leslie Winik, Producer",A Sport Is Born,False
+1960,1961,33,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",The Alamo,True
+1960,1961,33,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",The Apartment,False
+1960,1961,33,SOUND,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",Cimarron,False
+1960,1961,33,SOUND,"Columbia Studio Sound Department, Charles Rice, Sound Director",Pepe,False
+1960,1961,33,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",Sunrise at Campobello,False
+1960,1961,33,SPECIAL EFFECTS,Visual Effects by A.J. Lohman,The Last Voyage,False
+1960,1961,33,SPECIAL EFFECTS,"Visual Effects by Gene Warren, Tim Baar",The Time Machine,True
+1960,1961,33,WRITING (Screenplay--based on material from another medium),Richard Brooks,Elmer Gantry,True
+1960,1961,33,WRITING (Screenplay--based on material from another medium),"Nedrick Young, Harold Jacob Smith",Inherit the Wind,False
+1960,1961,33,WRITING (Screenplay--based on material from another medium),"Gavin Lambert, T. E. B. Clarke",Sons and Lovers,False
+1960,1961,33,WRITING (Screenplay--based on material from another medium),Isobel Lennart,The Sundowners,False
+1960,1961,33,WRITING (Screenplay--based on material from another medium),James Kennaway,Tunes of Glory,False
+1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),"Story by Richard Gregson, Michael Craig;  Screenplay by Bryan Forbes",The Angry Silence,False
+1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),"Billy Wilder, I. A. L. Diamond",The Apartment,True
+1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),"Norman Panama, Melvin Frank",The Facts of Life,False
+1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),Marguerite Duras,"Hiroshima, Mon Amour",False
+1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),Jules Dassin,Never on Sunday,False
+1960,1961,33,JEAN HERSHOLT HUMANITARIAN AWARD,Sol Lesser,,True
+1960,1961,33,HONORARY AWARD, Gary Cooper for his many memorable screen performances and the international recognition he,,True
+1960,1961,33,HONORARY AWARD, Stan Laurel for his creative pioneering in the field of cinema comedy.,,True
+1960,1961,33,HONORARY AWARD, Hayley Mills for Pollyanna,,True
+1961,1962,34,ACTOR,Charles Boyer,Fanny,False
+1961,1962,34,ACTOR,Paul Newman,The Hustler,False
+1961,1962,34,ACTOR,Maximilian Schell,Judgment at Nuremberg,True
+1961,1962,34,ACTOR,Spencer Tracy,Judgment at Nuremberg,False
+1961,1962,34,ACTOR,Stuart Whitman,The Mark,False
+1961,1962,34,ACTOR IN A SUPPORTING ROLE,George Chakiris,West Side Story,True
+1961,1962,34,ACTOR IN A SUPPORTING ROLE,Montgomery Clift,Judgment at Nuremberg,False
+1961,1962,34,ACTOR IN A SUPPORTING ROLE,Peter Falk,Pocketful of Miracles,False
+1961,1962,34,ACTOR IN A SUPPORTING ROLE,Jackie Gleason,The Hustler,False
+1961,1962,34,ACTOR IN A SUPPORTING ROLE,George C. Scott,The Hustler,False
+1961,1962,34,ACTRESS,Audrey Hepburn,Breakfast at Tiffany's,False
+1961,1962,34,ACTRESS,Piper Laurie,The Hustler,False
+1961,1962,34,ACTRESS,Sophia Loren,Two Women,True
+1961,1962,34,ACTRESS,Geraldine Page,Summer and Smoke,False
+1961,1962,34,ACTRESS,Natalie Wood,Splendor in the Grass,False
+1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Fay Bainter,The Children's Hour,False
+1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Judy Garland,Judgment at Nuremberg,False
+1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Lotte Lenya,The Roman Spring of Mrs. Stone,False
+1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Una Merkel,Summer and Smoke,False
+1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Rita Moreno,West Side Story,True
+1961,1962,34,ART DIRECTION (Black-and-White),"Art Direction:  Carroll Clark;  Set Decoration:  Emile Kuri, Hal Gausman",The Absent Minded Professor,False
+1961,1962,34,ART DIRECTION (Black-and-White),Art Direction:  Fernando Carrere;  Set Decoration:  Edward G. Boyle,The Children's Hour,False
+1961,1962,34,ART DIRECTION (Black-and-White),Art Direction:  Harry Horner;  Set Decoration:  Gene Callahan,The Hustler,True
+1961,1962,34,ART DIRECTION (Black-and-White),Art Direction:  Rudolph Sternad;  Set Decoration:  George Milo,Judgment at Nuremberg,False
+1961,1962,34,ART DIRECTION (Black-and-White),Piero Gherardi,La Dolce Vita,False
+1961,1962,34,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Ray Moyer",Breakfast at Tiffany's,False
+1961,1962,34,ART DIRECTION (Color),"Art Direction:  Veniero Colasanti, John Moore",El Cid,False
+1961,1962,34,ART DIRECTION (Color),"Art Direction:  Alexander Golitzen, Joseph Wright;  Set Decoration:  Howard Bristol",Flower Drum Song,False
+1961,1962,34,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Walter Tyler;  Set Decoration:  Sam Comer, Arthur Krams",Summer and Smoke,False
+1961,1962,34,ART DIRECTION (Color),Art Direction:  Boris Leven;  Set Decoration:  Victor A. Gangelin,West Side Story,True
+1961,1962,34,CINEMATOGRAPHY (Black-and-White),Edward Colman,The Absent Minded Professor,False
+1961,1962,34,CINEMATOGRAPHY (Black-and-White),Franz F. Planer,The Children's Hour,False
+1961,1962,34,CINEMATOGRAPHY (Black-and-White),Eugen Shuftan,The Hustler,True
+1961,1962,34,CINEMATOGRAPHY (Black-and-White),Ernest Laszlo,Judgment at Nuremberg,False
+1961,1962,34,CINEMATOGRAPHY (Black-and-White),Daniel L. Fapp,"One, Two, Three",False
+1961,1962,34,CINEMATOGRAPHY (Color),Jack Cardiff,Fanny,False
+1961,1962,34,CINEMATOGRAPHY (Color),Russell Metty,Flower Drum Song,False
+1961,1962,34,CINEMATOGRAPHY (Color),"Harry Stradling, Sr.",A Majority of One,False
+1961,1962,34,CINEMATOGRAPHY (Color),"Charles Lang, Jr.",One-Eyed Jacks,False
+1961,1962,34,CINEMATOGRAPHY (Color),Daniel L. Fapp,West Side Story,True
+1961,1962,34,COSTUME DESIGN (Black-and-White),Dorothy Jeakins,The Children's Hour,False
+1961,1962,34,COSTUME DESIGN (Black-and-White),Howard Shoup,Claudelle Inglish,False
+1961,1962,34,COSTUME DESIGN (Black-and-White),Jean Louis,Judgment at Nuremberg,False
+1961,1962,34,COSTUME DESIGN (Black-and-White),Piero Gherardi,La Dolce Vita,True
+1961,1962,34,COSTUME DESIGN (Black-and-White),Yoshiro Muraki,Yojimbo,False
+1961,1962,34,COSTUME DESIGN (Color),Bill Thomas,Babes in Toyland,False
+1961,1962,34,COSTUME DESIGN (Color),Jean Louis,Back Street,False
+1961,1962,34,COSTUME DESIGN (Color),Irene Sharaff,Flower Drum Song,False
+1961,1962,34,COSTUME DESIGN (Color),"Edith Head, Walter Plunkett",Pocketful of Miracles,False
+1961,1962,34,COSTUME DESIGN (Color),Irene Sharaff,West Side Story,True
+1961,1962,34,DIRECTING,J. Lee Thompson,The Guns of Navarone,False
+1961,1962,34,DIRECTING,Robert Rossen,The Hustler,False
+1961,1962,34,DIRECTING,Stanley Kramer,Judgment at Nuremberg,False
+1961,1962,34,DIRECTING,Federico Fellini,La Dolce Vita,False
+1961,1962,34,DIRECTING,"Robert Wise, Jerome Robbins",West Side Story,True
+1961,1962,34,DOCUMENTARY (Feature),"dell Istituto Nazionale Luce, Comitato Organizzatore Del Giochi Della XVII Olimpiade",La Grande Olimpiade (Olympic Games 1960),False
+1961,1962,34,DOCUMENTARY (Feature),"Arthur Cohn and Rene Lafuite, Producers",Le Ciel et la Boue (Sky Above and Mud Beneath),True
+1961,1962,34,DOCUMENTARY (Short Subject),United States Air Force,Breaking the Language Barrier,False
+1961,1962,34,DOCUMENTARY (Short Subject),"Jim O'Connor and Tom Hayes, Producers",Cradle of Genius,False
+1961,1962,34,DOCUMENTARY (Short Subject),Dido-Film-GmbH,Kahl,False
+1961,1962,34,DOCUMENTARY (Short Subject),"Benedetto Benedetti, Producer",L'Uomo in Grigio (The Man in Gray),False
+1961,1962,34,DOCUMENTARY (Short Subject),"Frank P. Bibas, Producer",Project Hope,True
+1961,1962,34,FILM EDITING,William H. Reynolds,Fanny,False
+1961,1962,34,FILM EDITING,Alan Osbiston,The Guns of Navarone,False
+1961,1962,34,FILM EDITING,Frederic Knudtson,Judgment at Nuremberg,False
+1961,1962,34,FILM EDITING,Philip W. Anderson,The Parent Trap,False
+1961,1962,34,FILM EDITING,Thomas Stanford,West Side Story,True
+1961,1962,34,FOREIGN LANGUAGE FILM,Denmark,Harry and the Butler,False
+1961,1962,34,FOREIGN LANGUAGE FILM,Japan,Immortal Love,False
+1961,1962,34,FOREIGN LANGUAGE FILM,Mexico,The Important Man,False
+1961,1962,34,FOREIGN LANGUAGE FILM,Spain,Placido,False
+1961,1962,34,FOREIGN LANGUAGE FILM,Sweden,Through a Glass Darkly,True
+1961,1962,34,MUSIC (Music Score of a Dramatic or Comedy Picture),Henry Mancini,Breakfast at Tiffany's,True
+1961,1962,34,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,El Cid,False
+1961,1962,34,MUSIC (Music Score of a Dramatic or Comedy Picture),"Morris Stoloff, Harry Sukman",Fanny,False
+1961,1962,34,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,The Guns of Navarone,False
+1961,1962,34,MUSIC (Music Score of a Dramatic or Comedy Picture),Elmer Bernstein,Summer and Smoke,False
+1961,1962,34,MUSIC (Scoring of a Musical Picture),George Bruns,Babes in Toyland,False
+1961,1962,34,MUSIC (Scoring of a Musical Picture),"Alfred Newman, Ken Darby",Flower Drum Song,False
+1961,1962,34,MUSIC (Scoring of a Musical Picture),Dimitri Shostakovich,Khovanshchina,False
+1961,1962,34,MUSIC (Scoring of a Musical Picture),Duke Ellington,Paris Blues,False
+1961,1962,34,MUSIC (Scoring of a Musical Picture),"Saul Chaplin, Johnny Green, Sid Ramin, Irwin Kostal",West Side Story,True
+1961,1962,34,MUSIC (Song),Music by Henry Mancini; Lyrics by Mack David,Bachelor in Paradise,False
+1961,1962,34,MUSIC (Song),Music by Miklos Rozsa; Lyrics by Paul Francis Webster,El Cid,False
+1961,1962,34,MUSIC (Song),Music by Henry Mancini; Lyrics by Johnny Mercer,Breakfast at Tiffany's,True
+1961,1962,34,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,Pocketful of Miracles,False
+1961,1962,34,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Ned Washington,Town without Pity,False
+1961,1962,34,BEST MOTION PICTURE,"Joshua Logan, Producer",Fanny,False
+1961,1962,34,BEST MOTION PICTURE,"Carl Foreman, Producer",The Guns of Navarone,False
+1961,1962,34,BEST MOTION PICTURE,"Robert Rossen, Producer",The Hustler,False
+1961,1962,34,BEST MOTION PICTURE,"Stanley Kramer, Producer",Judgment at Nuremberg,False
+1961,1962,34,BEST MOTION PICTURE,"Robert Wise, Producer",West Side Story,True
+1961,1962,34,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Aquamania,False
+1961,1962,34,SHORT SUBJECT (Cartoon),"Chuck Jones, Producer",Beep Prepared,False
+1961,1962,34,SHORT SUBJECT (Cartoon),Zagreb Film,Ersatz (The Substitute),True
+1961,1962,34,SHORT SUBJECT (Cartoon),"Chuck Jones, Producer",Nelly's Folly,False
+1961,1962,34,SHORT SUBJECT (Cartoon),"Friz Freleng, Producer",The Pied Piper of Guadalupe,False
+1961,1962,34,SHORT SUBJECT (Live Action),Ciné-Documents,Ballon Vole (Play Ball!),False
+1961,1962,34,SHORT SUBJECT (Live Action),"Dr. John D. Jennings, Producer",The Face of Jesus,False
+1961,1962,34,SHORT SUBJECT (Live Action),"Robert Gaffney, Producer",Rooftops of New York,False
+1961,1962,34,SHORT SUBJECT (Live Action),Templar Film Studios,Seawards the Great Ships,True
+1961,1962,34,SHORT SUBJECT (Live Action),National Film Board of Canada,"Very Nice, Very Nice",False
+1961,1962,34,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",The Children's Hour,False
+1961,1962,34,SOUND,"Revue Studio Sound Department, Waldon O. Watson, Sound Director",Flower Drum Song,False
+1961,1962,34,SOUND,"Shepperton Studio Sound Department, John Cox, Sound Director",The Guns of Navarone,False
+1961,1962,34,SOUND,"Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",The Parent Trap,False
+1961,1962,34,SOUND,"Todd-AO Sound Department, Fred Hynes, Sound Director; and Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",West Side Story,True
+1961,1962,34,SPECIAL EFFECTS,"Visual Effects by Robert A. Mattey, Eustace Lycett",The Absent Minded Professor,False
+1961,1962,34,SPECIAL EFFECTS,Visual Effects by Bill Warrington; Audible Effects by Vivian C. Greenham,The Guns of Navarone,True
+1961,1962,34,WRITING (Screenplay--based on material from another medium),George Axelrod,Breakfast at Tiffany's,False
+1961,1962,34,WRITING (Screenplay--based on material from another medium),Carl Foreman,The Guns of Navarone,False
+1961,1962,34,WRITING (Screenplay--based on material from another medium),"Sidney Carroll, Robert Rossen",The Hustler,False
+1961,1962,34,WRITING (Screenplay--based on material from another medium),Abby Mann,Judgment at Nuremberg,True
+1961,1962,34,WRITING (Screenplay--based on material from another medium),Ernest Lehman,West Side Story,False
+1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Valentin Yoshov, Grigori Chukhrai",Ballad of a Soldier,False
+1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Sergio Amidei, Diego Fabbri, Indro Montanelli",General Della Rovere,False
+1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Federico Fellini, Tullio Pinelli, Ennio Flaiano, Brunello Rondi",La Dolce Vita,False
+1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Stanley Shapiro, Paul Henning",Lover Come Back,False
+1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),William Inge,Splendor in the Grass,True
+1961,1962,34,JEAN HERSHOLT HUMANITARIAN AWARD,George Seaton,,True
+1961,1962,34,HONORARY AWARD, William L. Hendricks for his outstanding patriotic service in the conception,,True
+1961,1962,34,HONORARY AWARD, Fred L. Metzler for his dedication and outstanding service to the Academy of Motion Picture Arts and Sciences.,,True
+1961,1962,34,HONORARY AWARD, Jerome Robbins for his brilliant achievements in the art of choreography on film.,,True
+1961,1962,34,IRVING G. THALBERG MEMORIAL AWARD,Stanley Kramer,,True
+1962,1963,35,ACTOR,Burt Lancaster,Birdman of Alcatraz,False
+1962,1963,35,ACTOR,Jack Lemmon,Days of Wine and Roses,False
+1962,1963,35,ACTOR,Marcello Mastroianni,Divorce--Italian Style,False
+1962,1963,35,ACTOR,Peter O'Toole,Lawrence of Arabia,False
+1962,1963,35,ACTOR,Gregory Peck,To Kill a Mockingbird,True
+1962,1963,35,ACTOR IN A SUPPORTING ROLE,Ed Begley,Sweet Bird of Youth,True
+1962,1963,35,ACTOR IN A SUPPORTING ROLE,Victor Buono,What Ever Happened to Baby Jane?,False
+1962,1963,35,ACTOR IN A SUPPORTING ROLE,Telly Savalas,Birdman of Alcatraz,False
+1962,1963,35,ACTOR IN A SUPPORTING ROLE,Omar Sharif,Lawrence of Arabia,False
+1962,1963,35,ACTOR IN A SUPPORTING ROLE,Terence Stamp,Billy Budd,False
+1962,1963,35,ACTRESS,Anne Bancroft,The Miracle Worker,True
+1962,1963,35,ACTRESS,Bette Davis,What Ever Happened to Baby Jane?,False
+1962,1963,35,ACTRESS,Katharine Hepburn,Long Day's Journey into Night,False
+1962,1963,35,ACTRESS,Geraldine Page,Sweet Bird of Youth,False
+1962,1963,35,ACTRESS,Lee Remick,Days of Wine and Roses,False
+1962,1963,35,ACTRESS IN A SUPPORTING ROLE,Mary Badham,To Kill a Mockingbird,False
+1962,1963,35,ACTRESS IN A SUPPORTING ROLE,Patty Duke,The Miracle Worker,True
+1962,1963,35,ACTRESS IN A SUPPORTING ROLE,Shirley Knight,Sweet Bird of Youth,False
+1962,1963,35,ACTRESS IN A SUPPORTING ROLE,Angela Lansbury,The Manchurian Candidate,False
+1962,1963,35,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,Birdman of Alcatraz,False
+1962,1963,35,ART DIRECTION (Black-and-White),Art Direction:  Joseph Wright;  Set Decoration:  George James Hopkins,Days of Wine and Roses,False
+1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  Ted Haworth, Leon Barsacq, Vincent Korda;  Set Decoration:  Gabriel Bechir",The Longest Day,False
+1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  George W. Davis, Edward Carfagno;  Set Decoration:  Henry Grace, Dick Pefferle",Period of Adjustment,False
+1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Frank R. McKelvy",The Pigeon That Took Rome,False
+1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  Alexander Golitzen, Henry Bumstead;  Set Decoration:  Oliver Emert",To Kill a Mockingbird,True
+1962,1963,35,ART DIRECTION (Color),"Art Direction:  John Box, John Stoll;  Set Decoration:  Dario Simoni",Lawrence of Arabia,True
+1962,1963,35,ART DIRECTION (Color),Art Direction:  Paul Groesse;  Set Decoration:  George James Hopkins,Meredith Willson's The Music Man,False
+1962,1963,35,ART DIRECTION (Color),"Art Direction:  George W. Davis, J. McMillan Johnson;  Set Decoration:  Henry Grace, Hugh Hunt",Mutiny on the Bounty,False
+1962,1963,35,ART DIRECTION (Color),"Art Direction:  Alexander Golitzen, Robert Clatworthy;  Set Decoration:  George Milo",That Touch of Mink,False
+1962,1963,35,ART DIRECTION (Color),"Art Direction:  George W. Davis, Edward Carfagno;  Set Decoration:  Henry Grace, Dick Pefferle",The Wonderful World of the Brothers Grimm,False
+1962,1963,35,CINEMATOGRAPHY (Black-and-White),Burnett Guffey,Birdman of Alcatraz,False
+1962,1963,35,CINEMATOGRAPHY (Black-and-White),"Jean Bourgoin, Walter Wottitz, (Henri Persin)",The Longest Day,True
+1962,1963,35,CINEMATOGRAPHY (Black-and-White),Russell Harlan,To Kill a Mockingbird,False
+1962,1963,35,CINEMATOGRAPHY (Black-and-White),Ted McCord,Two for the Seesaw,False
+1962,1963,35,CINEMATOGRAPHY (Black-and-White),Ernest Haller,What Ever Happened to Baby Jane?,False
+1962,1963,35,CINEMATOGRAPHY (Color),"Harry Stradling, Sr.",Gypsy,False
+1962,1963,35,CINEMATOGRAPHY (Color),Russell Harlan,Hatari!,False
+1962,1963,35,CINEMATOGRAPHY (Color),Fred A. Young,Lawrence of Arabia,True
+1962,1963,35,CINEMATOGRAPHY (Color),Robert L. Surtees,Mutiny on the Bounty,False
+1962,1963,35,CINEMATOGRAPHY (Color),Paul C. Vogel,The Wonderful World of the Brothers Grimm,False
+1962,1963,35,COSTUME DESIGN (Black-and-White),Don Feld,Days of Wine and Roses,False
+1962,1963,35,COSTUME DESIGN (Black-and-White),Edith Head,The Man Who Shot Liberty Valance,False
+1962,1963,35,COSTUME DESIGN (Black-and-White),Ruth Morley,The Miracle Worker,False
+1962,1963,35,COSTUME DESIGN (Black-and-White),Denny Vachlioti,Phaedra,False
+1962,1963,35,COSTUME DESIGN (Black-and-White),Norma Koch,What Ever Happened to Baby Jane?,True
+1962,1963,35,COSTUME DESIGN (Color),Bill Thomas,Bon Voyage!,False
+1962,1963,35,COSTUME DESIGN (Color),Orry-Kelly,Gypsy,False
+1962,1963,35,COSTUME DESIGN (Color),Dorothy Jeakins,Meredith Willson's The Music Man,False
+1962,1963,35,COSTUME DESIGN (Color),Edith Head,My Geisha,False
+1962,1963,35,COSTUME DESIGN (Color),Mary Wills,The Wonderful World of the Brothers Grimm,True
+1962,1963,35,DIRECTING,Frank Perry,David and Lisa,False
+1962,1963,35,DIRECTING,Pietro Germi,Divorce--Italian Style,False
+1962,1963,35,DIRECTING,David Lean,Lawrence of Arabia,True
+1962,1963,35,DIRECTING,Arthur Penn,The Miracle Worker,False
+1962,1963,35,DIRECTING,Robert Mulligan,To Kill a Mockingbird,False
+1962,1963,35,DOCUMENTARY (Feature),"Hugo Niebeling, Producer",Alvorada (Brazil's Changing Face),False
+1962,1963,35,DOCUMENTARY (Feature),"Louis Clyde Stoumen, Producer",Black Fox,True
+1962,1963,35,DOCUMENTARY (Short Subject),"Jack Howells, Producer",Dylan Thomas,True
+1962,1963,35,DOCUMENTARY (Short Subject),"William L. Hendricks, Producer",The John Glenn Story,False
+1962,1963,35,DOCUMENTARY (Short Subject),"Robert Saudek, Producer",The Road to the Wall,False
+1962,1963,35,FILM EDITING,Anne Coates,Lawrence of Arabia,True
+1962,1963,35,FILM EDITING,Samuel E. Beetley,The Longest Day,False
+1962,1963,35,FILM EDITING,Ferris Webster,The Manchurian Candidate,False
+1962,1963,35,FILM EDITING,William Ziegler,Meredith Willson's The Music Man,False
+1962,1963,35,FILM EDITING,"John McSweeney, Jr.",Mutiny on the Bounty,False
+1962,1963,35,FOREIGN LANGUAGE FILM,Greece,Electra,False
+1962,1963,35,FOREIGN LANGUAGE FILM,Italy,The Four Days of Naples,False
+1962,1963,35,FOREIGN LANGUAGE FILM,Brazil,Keeper of Promises (The Given Word),False
+1962,1963,35,FOREIGN LANGUAGE FILM,France,Sundays and Cybele,True
+1962,1963,35,FOREIGN LANGUAGE FILM,Mexico,Tlayucan,False
+1962,1963,35,MUSIC (Music Score--substantially original),Jerry Goldsmith,Freud,False
+1962,1963,35,MUSIC (Music Score--substantially original),Maurice Jarre,Lawrence of Arabia,True
+1962,1963,35,MUSIC (Music Score--substantially original),Bronislau Kaper,Mutiny on the Bounty,False
+1962,1963,35,MUSIC (Music Score--substantially original),Franz Waxman,Taras Bulba,False
+1962,1963,35,MUSIC (Music Score--substantially original),Elmer Bernstein,To Kill a Mockingbird,False
+1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),George Stoll,Billy Rose's Jumbo,False
+1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Michel Magne,Gigot,False
+1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Frank Perkins,Gypsy,False
+1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Ray Heindorf,Meredith Willson's The Music Man,True
+1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Leigh Harline,The Wonderful World of the Brothers Grimm,False
+1962,1963,35,MUSIC (Song),Music by Henry Mancini; Lyrics by Johnny Mercer,Days of Wine and Roses,True
+1962,1963,35,MUSIC (Song),Music by Bronislau Kaper; Lyrics by Paul Francis Webster,Mutiny on the Bounty,False
+1962,1963,35,MUSIC (Song),Music by Andre Previn; Lyrics by Dory Langdon,Two for the Seesaw,False
+1962,1963,35,MUSIC (Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,Tender Is the Night,False
+1962,1963,35,MUSIC (Song),Music by Elmer Bernstein; Lyrics by Mack David,Walk on the Wild Side,False
+1962,1963,35,BEST PICTURE,"Sam Spiegel, Producer",Lawrence of Arabia,True
+1962,1963,35,BEST PICTURE,"Darryl F. Zanuck, Producer",The Longest Day,False
+1962,1963,35,BEST PICTURE,"Morton Da Costa, Producer",Meredith Willson's The Music Man,False
+1962,1963,35,BEST PICTURE,"Aaron Rosenberg, Producer",Mutiny on the Bounty,False
+1962,1963,35,BEST PICTURE,"Alan J. Pakula, Producer",To Kill a Mockingbird,False
+1962,1963,35,SHORT SUBJECT (Cartoon),"John Hubley and Faith Hubley, Producers",The Hole,True
+1962,1963,35,SHORT SUBJECT (Cartoon),"Jules Engel, Producer",Icarus Montgolfier Wright,False
+1962,1963,35,SHORT SUBJECT (Cartoon),Warner Bros.,Now Hear This,False
+1962,1963,35,SHORT SUBJECT (Cartoon),"William L. Snyder, Producer",Self Defense--For Cowards,False
+1962,1963,35,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Symposium on Popular Songs,False
+1962,1963,35,SHORT SUBJECT (Live Action),"Martina Huguenot van der Linden and Charles Huguenot van der Linden, Producers",Big City Blues,False
+1962,1963,35,SHORT SUBJECT (Live Action),"Robert Clouse, Producer",The Cadillac,False
+1962,1963,35,SHORT SUBJECT (Live Action),"Hayward Anderson, Producer",The Cliff Dwellers (formerly titled 'One Plus One'),False
+1962,1963,35,SHORT SUBJECT (Live Action),"Pierre Etaix and J.C. Carrière, Producers",Heureux Anniversaire (Happy Anniversary),True
+1962,1963,35,SHORT SUBJECT (Live Action),"Herman van der Horst, Producer",Pan,False
+1962,1963,35,SOUND,"Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",Bon Voyage!,False
+1962,1963,35,SOUND,"Shepperton Studio Sound Department, John Cox, Sound Director",Lawrence of Arabia,True
+1962,1963,35,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",Meredith Willson's The Music Man,False
+1962,1963,35,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director",That Touch of Mink,False
+1962,1963,35,SOUND,"Glen Glenn Sound Department, Joseph Kelly, Sound Director",What Ever Happened to Baby Jane?,False
+1962,1963,35,SPECIAL EFFECTS,Visual Effects by Robert MacDonald; Audible Effects by Jacques Maumont,The Longest Day,True
+1962,1963,35,SPECIAL EFFECTS,Visual Effects by A. Arnold Gillespie; Audible Effects by Milo Lory,Mutiny on the Bounty,False
+1962,1963,35,WRITING (Screenplay--based on material from another medium),Eleanor Perry,David and Lisa,False
+1962,1963,35,WRITING (Screenplay--based on material from another medium),"Robert Bolt, Michael Wilson",Lawrence of Arabia,False
+1962,1963,35,WRITING (Screenplay--based on material from another medium),Vladimir Nabokov,Lolita,False
+1962,1963,35,WRITING (Screenplay--based on material from another medium),William Gibson,The Miracle Worker,False
+1962,1963,35,WRITING (Screenplay--based on material from another medium),Horton Foote,To Kill a Mockingbird,True
+1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),"Ennio de Concini, Alfredo Giannetti, Pietro Germi",Divorce--Italian Style,True
+1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),"Story by Charles Kaufman;  Screenplay by Charles Kaufman, Wolfgang Reinhardt",Freud,False
+1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),Alain Robbe-Grillet,Last Year at Marienbad,False
+1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),"Stanley Shapiro, Nate Monaster",That Touch of Mink,False
+1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),Ingmar Bergman,Through a Glass Darkly,False
+1962,1963,35,JEAN HERSHOLT HUMANITARIAN AWARD,Steve Broidy,,True
+1963,1964,36,ACTOR,Albert Finney,Tom Jones,False
+1963,1964,36,ACTOR,Richard Harris,This Sporting Life,False
+1963,1964,36,ACTOR,Rex Harrison,Cleopatra,False
+1963,1964,36,ACTOR,Paul Newman,Hud,False
+1963,1964,36,ACTOR,Sidney Poitier,Lilies of the Field,True
+1963,1964,36,ACTOR IN A SUPPORTING ROLE,Nick Adams,Twilight of Honor,False
+1963,1964,36,ACTOR IN A SUPPORTING ROLE,Bobby Darin,"Captain Newman, M.D.",False
+1963,1964,36,ACTOR IN A SUPPORTING ROLE,Melvyn Douglas,Hud,True
+1963,1964,36,ACTOR IN A SUPPORTING ROLE,Hugh Griffith,Tom Jones,False
+1963,1964,36,ACTOR IN A SUPPORTING ROLE,John Huston,The Cardinal,False
+1963,1964,36,ACTRESS,Leslie Caron,The L-Shaped Room,False
+1963,1964,36,ACTRESS,Shirley MacLaine,Irma La Douce,False
+1963,1964,36,ACTRESS,Patricia Neal,Hud,True
+1963,1964,36,ACTRESS,Rachel Roberts,This Sporting Life,False
+1963,1964,36,ACTRESS,Natalie Wood,Love with the Proper Stranger,False
+1963,1964,36,ACTRESS IN A SUPPORTING ROLE,Diane Cilento,Tom Jones,False
+1963,1964,36,ACTRESS IN A SUPPORTING ROLE,Dame Edith Evans,Tom Jones,False
+1963,1964,36,ACTRESS IN A SUPPORTING ROLE,Joyce Redman,Tom Jones,False
+1963,1964,36,ACTRESS IN A SUPPORTING ROLE,Margaret Rutherford,The V.I.P.s,True
+1963,1964,36,ACTRESS IN A SUPPORTING ROLE,Lilia Skala,Lilies of the Field,False
+1963,1964,36,ART DIRECTION (Black-and-White),Gene Callahan,America America,True
+1963,1964,36,ART DIRECTION (Black-and-White),Piero Gherardi,Federico Fellini's 8-1/2,False
+1963,1964,36,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Tambi Larsen;  Set Decoration:  Sam Comer, Robert Benton",Hud,False
+1963,1964,36,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Grace Gregory",Love with the Proper Stranger,False
+1963,1964,36,ART DIRECTION (Black-and-White),"Art Direction:  George W. Davis, Paul Groesse;  Set Decoration:  Henry Grace, Hugh Hunt",Twilight of Honor,False
+1963,1964,36,ART DIRECTION (Color),Art Direction:  Lyle Wheeler;  Set Decoration:  Gene Callahan,The Cardinal,False
+1963,1964,36,ART DIRECTION (Color),"Art Direction:  John DeCuir, Jack Martin Smith, Hilyard Brown, Herman Blumenthal, Elven Webb, Maurice Pelling, Boris Juraga;  Set Decoration:  Walter M. Scott, Paul S. Fox, Ray Moyer",Cleopatra,True
+1963,1964,36,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, James Payne",Come Blow Your Horn,False
+1963,1964,36,ART DIRECTION (Color),"Art Direction:  George W. Davis, William Ferrari, Addison Hehr;  Set Decoration:  Henry Grace, Don Greenwood, Jr., Jack Mills",How the West Was Won,False
+1963,1964,36,ART DIRECTION (Color),"Art Direction:  Ralph Brinton, Ted Marshall, Jocelyn Herbert;  Set Decoration:  Josie MacAvin",Tom Jones,False
+1963,1964,36,CINEMATOGRAPHY (Black-and-White),George Folsey,The Balcony,False
+1963,1964,36,CINEMATOGRAPHY (Black-and-White),Lucien Ballard,The Caretakers,False
+1963,1964,36,CINEMATOGRAPHY (Black-and-White),James Wong Howe,Hud,True
+1963,1964,36,CINEMATOGRAPHY (Black-and-White),Ernest Haller,Lilies of the Field,False
+1963,1964,36,CINEMATOGRAPHY (Black-and-White),Milton Krasner,Love with the Proper Stranger,False
+1963,1964,36,CINEMATOGRAPHY (Color),Leon Shamroy,The Cardinal,False
+1963,1964,36,CINEMATOGRAPHY (Color),Leon Shamroy,Cleopatra,True
+1963,1964,36,CINEMATOGRAPHY (Color),"William H. Daniels, Milton Krasner, Charles Lang, Jr., Joseph LaShelle",How the West Was Won,False
+1963,1964,36,CINEMATOGRAPHY (Color),Joseph LaShelle,Irma La Douce,False
+1963,1964,36,CINEMATOGRAPHY (Color),Ernest Laszlo,"It's a Mad, Mad, Mad, Mad World",False
+1963,1964,36,COSTUME DESIGN (Black-and-White),Piero Gherardi,Federico Fellini's 8-1/2,True
+1963,1964,36,COSTUME DESIGN (Black-and-White),Edith Head,Love with the Proper Stranger,False
+1963,1964,36,COSTUME DESIGN (Black-and-White),Travilla,The Stripper,False
+1963,1964,36,COSTUME DESIGN (Black-and-White),Bill Thomas,Toys in the Attic,False
+1963,1964,36,COSTUME DESIGN (Black-and-White),Edith Head,Wives and Lovers,False
+1963,1964,36,COSTUME DESIGN (Color),Donald Brooks,The Cardinal,False
+1963,1964,36,COSTUME DESIGN (Color),"Irene Sharaff, Vittorio Nino Novarese, Renie",Cleopatra,True
+1963,1964,36,COSTUME DESIGN (Color),Walter Plunkett,How the West Was Won,False
+1963,1964,36,COSTUME DESIGN (Color),Piero Tosi,The Leopard,False
+1963,1964,36,COSTUME DESIGN (Color),Edith Head,A New Kind of Love,False
+1963,1964,36,DIRECTING,Elia Kazan,America America,False
+1963,1964,36,DIRECTING,Otto Preminger,The Cardinal,False
+1963,1964,36,DIRECTING,Federico Fellini,Federico Fellini's 8-1/2,False
+1963,1964,36,DIRECTING,Martin Ritt,Hud,False
+1963,1964,36,DIRECTING,Tony Richardson,Tom Jones,True
+1963,1964,36,DOCUMENTARY (Feature),"Paul de Roubaix, Producer",Le Maillon et la Chaine (The Link and the Chain),False
+1963,1964,36,DOCUMENTARY (Feature),"Robert Hughes, Producer",Robert Frost: A Lover's Quarrel with the World,True
+1963,1964,36,DOCUMENTARY (Feature),"Edgar Anstey, Producer",Terminus,False
+1963,1964,36,DOCUMENTARY (Feature),"Marshall Flaum, Producer",The Yanks Are Coming,False
+1963,1964,36,DOCUMENTARY (Short Subject),"Simon Schiffrin, Producer",Chagall,True
+1963,1964,36,DOCUMENTARY (Short Subject),"George Stevens, Jr., Producer",The Five Cities of June,False
+1963,1964,36,DOCUMENTARY (Short Subject),"Algernon G. Walker, Producer",The Spirit of America,False
+1963,1964,36,DOCUMENTARY (Short Subject),"Edgar Anstey, Producer",Thirty Million Letters,False
+1963,1964,36,DOCUMENTARY (Short Subject),"Mel London, Producer",To Live Again,False
+1963,1964,36,FILM EDITING,Louis R. Loeffler,The Cardinal,False
+1963,1964,36,FILM EDITING,Dorothy Spencer,Cleopatra,False
+1963,1964,36,FILM EDITING,Ferris Webster,The Great Escape,False
+1963,1964,36,FILM EDITING,Harold F. Kress,How the West Was Won,True
+1963,1964,36,FILM EDITING,"Frederic Knudtson, Robert C. Jones, Gene Fowler, Jr.","It's a Mad, Mad, Mad, Mad World",False
+1963,1964,36,FOREIGN LANGUAGE FILM,Italy,Federico Fellini's 8-1/2,True
+1963,1964,36,FOREIGN LANGUAGE FILM,Poland,Knife in the Water,False
+1963,1964,36,FOREIGN LANGUAGE FILM,Spain,Los Tarantos,False
+1963,1964,36,FOREIGN LANGUAGE FILM,Greece,The Red Lanterns,False
+1963,1964,36,FOREIGN LANGUAGE FILM,Japan,Twin Sisters of Kyoto,False
+1963,1964,36,MUSIC (Music Score--substantially original),Alex North,Cleopatra,False
+1963,1964,36,MUSIC (Music Score--substantially original),Dimitri Tiomkin,55 Days at Peking,False
+1963,1964,36,MUSIC (Music Score--substantially original),"Alfred Newman, Ken Darby",How the West Was Won,False
+1963,1964,36,MUSIC (Music Score--substantially original),Ernest Gold,"It's a Mad, Mad, Mad, Mad World",False
+1963,1964,36,MUSIC (Music Score--substantially original),John Addison,Tom Jones,True
+1963,1964,36,MUSIC (Scoring of Music--adaptation or treatment),John Green,Bye Bye Birdie,False
+1963,1964,36,MUSIC (Scoring of Music--adaptation or treatment),Andre Previn,Irma La Douce,True
+1963,1964,36,MUSIC (Scoring of Music--adaptation or treatment),Leith Stevens,A New Kind of Love,False
+1963,1964,36,MUSIC (Scoring of Music--adaptation or treatment),Maurice Jarre,Sundays and Cybele,False
+1963,1964,36,MUSIC (Scoring of Music--adaptation or treatment),George Bruns,The Sword in the Stone,False
+1963,1964,36,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,Papa's Delicate Condition,True
+1963,1964,36,MUSIC (Song),Music by Henry Mancini; Lyrics by Johnny Mercer,Charade,False
+1963,1964,36,MUSIC (Song),Music by Ernest Gold; Lyrics by Mack David,"It's a Mad, Mad, Mad, Mad World",False
+1963,1964,36,MUSIC (Song),Music by Riz Ortolani and Nino Oliviero; Lyrics by Norman Newell,Mondo Cane,False
+1963,1964,36,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Paul Francis Webster,55 Days at Peking,False
+1963,1964,36,BEST PICTURE,"Elia Kazan, Producer",America America,False
+1963,1964,36,BEST PICTURE,"Walter Wanger, Producer",Cleopatra,False
+1963,1964,36,BEST PICTURE,"Bernard Smith, Producer",How the West Was Won,False
+1963,1964,36,BEST PICTURE,"Ralph Nelson, Producer",Lilies of the Field,False
+1963,1964,36,BEST PICTURE,"Tony Richardson, Producer",Tom Jones,True
+1963,1964,36,SHORT SUBJECT (Cartoon),"John Halas, Producer",Automania 2000,False
+1963,1964,36,SHORT SUBJECT (Cartoon),"Ernest Pintoff, Producer",The Critic,True
+1963,1964,36,SHORT SUBJECT (Cartoon),"Dusan Vukotic, Producer",The Game (Igra),False
+1963,1964,36,SHORT SUBJECT (Cartoon),"Colin Low and Tom Daly, Producers",My Financial Career,False
+1963,1964,36,SHORT SUBJECT (Cartoon),"Carmen D'Avino, Producer",Pianissimo,False
+1963,1964,36,SHORT SUBJECT (Live Action),"Ezra Baker, Producer",The Concert,False
+1963,1964,36,SHORT SUBJECT (Live Action),"James Hill, Producer",Home-Made Car,False
+1963,1964,36,SHORT SUBJECT (Live Action),"Paul de Roubaix and Marcel Ichac, Producers",An Occurrence at Owl Creek Bridge,True
+1963,1964,36,SHORT SUBJECT (Live Action),"Christopher Miles, Producer",Six-Sided Triangle,False
+1963,1964,36,SHORT SUBJECT (Live Action),"Walker Stuart, Producer",That's Me,False
+1963,1964,36,SOUND,"Columbia Studio Sound Department, Charles Rice, Sound Director",Bye Bye Birdie,False
+1963,1964,36,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director","Captain Newman, M.D.",False
+1963,1964,36,SOUND,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",Cleopatra,False
+1963,1964,36,SOUND,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",How the West Was Won,True
+1963,1964,36,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director","It's a Mad, Mad, Mad, Mad World",False
+1963,1964,36,SOUND EFFECTS,Robert L. Bratton,A Gathering of Eagles,False
+1963,1964,36,SOUND EFFECTS,Walter G. Elliott,"It's a Mad, Mad, Mad, Mad World",True
+1963,1964,36,SPECIAL EFFECTS,Ub Iwerks,The Birds,False
+1963,1964,36,SPECIAL EFFECTS,"Emil Kosa, Jr.",Cleopatra,True
+1963,1964,36,WRITING (Screenplay--based on material from another medium),"Richard L. Breen, Phoebe Ephron, Henry Ephron","Captain Newman, M.D.",False
+1963,1964,36,WRITING (Screenplay--based on material from another medium),"Irving Ravetch, Harriet Frank, Jr.",Hud,False
+1963,1964,36,WRITING (Screenplay--based on material from another medium),James Poe,Lilies of the Field,False
+1963,1964,36,WRITING (Screenplay--based on material from another medium),"Serge Bourguignon, Antoine Tudal",Sundays and Cybele,False
+1963,1964,36,WRITING (Screenplay--based on material from another medium),John Osborne,Tom Jones,True
+1963,1964,36,WRITING (Story and Screenplay--written directly for the screen),Elia Kazan,America America,False
+1963,1964,36,WRITING (Story and Screenplay--written directly for the screen),"Federico Fellini, Ennio Flaiano, Tullio Pinelli, Brunello Rondi",Federico Fellini's 8-1/2,False
+1963,1964,36,WRITING (Story and Screenplay--written directly for the screen),"Story by Pasquale Festa Campanile, Massimo Franciosa, Nanni Loy, Vasco Pratolini;  Screenplay by Carlo Bernari, Pasquale Festa Campanile, Massimo Franciosa, Nanni Loy",The Four Days of Naples,False
+1963,1964,36,WRITING (Story and Screenplay--written directly for the screen),James R. Webb,How the West Was Won,True
+1963,1964,36,WRITING (Story and Screenplay--written directly for the screen),Arnold Schulman,Love with the Proper Stranger,False
+1963,1964,36,IRVING G. THALBERG MEMORIAL AWARD,Sam Spiegel,,True
+1964,1965,37,ACTOR,Richard Burton,Becket,False
+1964,1965,37,ACTOR,Rex Harrison,My Fair Lady,True
+1964,1965,37,ACTOR,Peter O'Toole,Becket,False
+1964,1965,37,ACTOR,Anthony Quinn,Zorba the Greek,False
+1964,1965,37,ACTOR,Peter Sellers,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
+1964,1965,37,ACTOR IN A SUPPORTING ROLE,John Gielgud,Becket,False
+1964,1965,37,ACTOR IN A SUPPORTING ROLE,Stanley Holloway,My Fair Lady,False
+1964,1965,37,ACTOR IN A SUPPORTING ROLE,Edmond O'Brien,Seven Days in May,False
+1964,1965,37,ACTOR IN A SUPPORTING ROLE,Lee Tracy,The Best Man,False
+1964,1965,37,ACTOR IN A SUPPORTING ROLE,Peter Ustinov,Topkapi,True
+1964,1965,37,ACTRESS,Julie Andrews,Mary Poppins,True
+1964,1965,37,ACTRESS,Anne Bancroft,The Pumpkin Eater,False
+1964,1965,37,ACTRESS,Sophia Loren,Marriage Italian Style,False
+1964,1965,37,ACTRESS,Debbie Reynolds,The Unsinkable Molly Brown,False
+1964,1965,37,ACTRESS,Kim Stanley,Seance on a Wet Afternoon,False
+1964,1965,37,ACTRESS IN A SUPPORTING ROLE,Gladys Cooper,My Fair Lady,False
+1964,1965,37,ACTRESS IN A SUPPORTING ROLE,Dame Edith Evans,The Chalk Garden,False
+1964,1965,37,ACTRESS IN A SUPPORTING ROLE,Grayson Hall,The Night of the Iguana,False
+1964,1965,37,ACTRESS IN A SUPPORTING ROLE,Lila Kedrova,Zorba the Greek,True
+1964,1965,37,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,"Hush...Hush, Sweet Charlotte",False
+1964,1965,37,ART DIRECTION (Black-and-White),"Art Direction:  George W. Davis, Hans Peters, Elliot Scott;  Set Decoration:  Henry Grace, Robert R. Benton",The Americanization of Emily,False
+1964,1965,37,ART DIRECTION (Black-and-White),Art Direction:  William Glasgow;  Set Decoration:  Raphael Bretton,"Hush...Hush, Sweet Charlotte",False
+1964,1965,37,ART DIRECTION (Black-and-White),Stephen Grimes,The Night of the Iguana,False
+1964,1965,37,ART DIRECTION (Black-and-White),Art Direction:  Cary Odell;  Set Decoration:  Edward G. Boyle,Seven Days in May,False
+1964,1965,37,ART DIRECTION (Black-and-White),Vassilis Fotopoulos,Zorba the Greek,True
+1964,1965,37,ART DIRECTION (Color),"Art Direction:  John Bryan, Maurice Carter;  Set Decoration:  Patrick McLoughlin, Robert Cartwright",Becket,False
+1964,1965,37,ART DIRECTION (Color),"Art Direction:  Carroll Clark, William H. Tuntke;  Set Decoration:  Emile Kuri, Hal Gausman",Mary Poppins,False
+1964,1965,37,ART DIRECTION (Color),"Art Direction:  Gene Allen, Cecil Beaton;  Set Decoration:  George James Hopkins",My Fair Lady,True
+1964,1965,37,ART DIRECTION (Color),"Art Direction:  George W. Davis, Preston Ames;  Set Decoration:  Henry Grace, Hugh Hunt",The Unsinkable Molly Brown,False
+1964,1965,37,ART DIRECTION (Color),"Art Direction:  Jack Martin Smith, Ted Haworth;  Set Decoration:  Walter M. Scott, Stuart A. Reiss",What a Way to Go!,False
+1964,1965,37,CINEMATOGRAPHY (Black-and-White),Philip H. Lathrop,The Americanization of Emily,False
+1964,1965,37,CINEMATOGRAPHY (Black-and-White),Milton Krasner,Fate Is the Hunter,False
+1964,1965,37,CINEMATOGRAPHY (Black-and-White),Joseph Biroc,"Hush...Hush, Sweet Charlotte",False
+1964,1965,37,CINEMATOGRAPHY (Black-and-White),Gabriel Figueroa,The Night of the Iguana,False
+1964,1965,37,CINEMATOGRAPHY (Black-and-White),Walter Lassally,Zorba the Greek,True
+1964,1965,37,CINEMATOGRAPHY (Color),Geoffrey Unsworth,Becket,False
+1964,1965,37,CINEMATOGRAPHY (Color),William H. Clothier,Cheyenne Autumn,False
+1964,1965,37,CINEMATOGRAPHY (Color),Edward Colman,Mary Poppins,False
+1964,1965,37,CINEMATOGRAPHY (Color),Harry Stradling,My Fair Lady,True
+1964,1965,37,CINEMATOGRAPHY (Color),Daniel L. Fapp,The Unsinkable Molly Brown,False
+1964,1965,37,COSTUME DESIGN (Black-and-White),Edith Head,A House Is Not a Home,False
+1964,1965,37,COSTUME DESIGN (Black-and-White),Norma Koch,"Hush...Hush, Sweet Charlotte",False
+1964,1965,37,COSTUME DESIGN (Black-and-White),Howard Shoup,Kisses for My President,False
+1964,1965,37,COSTUME DESIGN (Black-and-White),Dorothy Jeakins,The Night of the Iguana,True
+1964,1965,37,COSTUME DESIGN (Black-and-White),René Hubert,The Visit,False
+1964,1965,37,COSTUME DESIGN (Color),Margaret Furse,Becket,False
+1964,1965,37,COSTUME DESIGN (Color),Tony Walton,Mary Poppins,False
+1964,1965,37,COSTUME DESIGN (Color),Cecil Beaton,My Fair Lady,True
+1964,1965,37,COSTUME DESIGN (Color),Morton Haack,The Unsinkable Molly Brown,False
+1964,1965,37,COSTUME DESIGN (Color),"Edith Head, Moss Mabry",What a Way to Go!,False
+1964,1965,37,DIRECTING,Peter Glenville,Becket,False
+1964,1965,37,DIRECTING,Stanley Kubrick,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
+1964,1965,37,DIRECTING,Robert Stevenson,Mary Poppins,False
+1964,1965,37,DIRECTING,George Cukor,My Fair Lady,True
+1964,1965,37,DIRECTING,Michael Cacoyannis,Zorba the Greek,False
+1964,1965,37,DOCUMENTARY (Feature),"Jack Le Vien, Producer",The Finest Hours,False
+1964,1965,37,DOCUMENTARY (Feature),"Mel Stuart, Producer",Four Days in November,False
+1964,1965,37,DOCUMENTARY (Feature),"Bert Haanstra, Producer",The Human Dutch,False
+1964,1965,37,DOCUMENTARY (Feature),"Jacques-Yves Cousteau, Producer",Jacques-Yves Cousteau's World without Sun,True
+1964,1965,37,DOCUMENTARY (Feature),"Jean Aurel, Producer","Over There, 1914-18",False
+1964,1965,37,DOCUMENTARY (Short Subject),"Henry Jacobs and John Korty, Producers",Breaking the Habit,False
+1964,1965,37,DOCUMENTARY (Short Subject),"Charles Guggenheim, Producer",Children Without,False
+1964,1965,37,DOCUMENTARY (Short Subject),National Film Board of Canada,Kenojuak,False
+1964,1965,37,DOCUMENTARY (Short Subject),"Charles Guggenheim, Producer",Nine from Little Rock,True
+1964,1965,37,DOCUMENTARY (Short Subject),"Geoffrey Scott and Oxley Hughan, Producers",140 Days under the World,False
+1964,1965,37,FILM EDITING,Anne Coates,Becket,False
+1964,1965,37,FILM EDITING,Ted J. Kent,Father Goose,False
+1964,1965,37,FILM EDITING,Michael Luciano,"Hush...Hush, Sweet Charlotte",False
+1964,1965,37,FILM EDITING,Cotton Warburton,Mary Poppins,True
+1964,1965,37,FILM EDITING,William Ziegler,My Fair Lady,False
+1964,1965,37,FOREIGN LANGUAGE FILM,Sweden,Raven's End,False
+1964,1965,37,FOREIGN LANGUAGE FILM,Israel,Sallah,False
+1964,1965,37,FOREIGN LANGUAGE FILM,France,The Umbrellas of Cherbourg,False
+1964,1965,37,FOREIGN LANGUAGE FILM,Japan,Woman in the Dunes,False
+1964,1965,37,FOREIGN LANGUAGE FILM,Italy,"Yesterday, Today and Tomorrow",True
+1964,1965,37,MUSIC (Music Score--substantially original),Laurence Rosenthal,Becket,False
+1964,1965,37,MUSIC (Music Score--substantially original),Dimitri Tiomkin,The Fall of the Roman Empire,False
+1964,1965,37,MUSIC (Music Score--substantially original),Frank DeVol,"Hush...Hush, Sweet Charlotte",False
+1964,1965,37,MUSIC (Music Score--substantially original),"Richard M. Sherman, Robert B. Sherman",Mary Poppins,True
+1964,1965,37,MUSIC (Music Score--substantially original),Henry Mancini,The Pink Panther,False
+1964,1965,37,MUSIC (Scoring of Music--adaptation or treatment),George Martin,A Hard Day's Night,False
+1964,1965,37,MUSIC (Scoring of Music--adaptation or treatment),Irwin Kostal,Mary Poppins,False
+1964,1965,37,MUSIC (Scoring of Music--adaptation or treatment),Andre Previn,My Fair Lady,True
+1964,1965,37,MUSIC (Scoring of Music--adaptation or treatment),Nelson Riddle,Robin and the 7 Hoods,False
+1964,1965,37,MUSIC (Scoring of Music--adaptation or treatment),"Robert Armbruster, Leo Arnaud, Jack Elliott, Jack Hayes, Calvin Jackson, Leo Shuken",The Unsinkable Molly Brown,False
+1964,1965,37,MUSIC (Song),Music and Lyrics by Richard M. Sherman and Robert B. Sherman,Mary Poppins,True
+1964,1965,37,MUSIC (Song),Music by Henry Mancini; Lyrics by Jay Livingston and Ray Evans,Dear Heart,False
+1964,1965,37,MUSIC (Song),Music by Frank DeVol; Lyrics by Mack David,"Hush...Hush, Sweet Charlotte",False
+1964,1965,37,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,Robin and the 7 Hoods,False
+1964,1965,37,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,Where Love Has Gone,False
+1964,1965,37,BEST PICTURE,"Hal B. Wallis, Producer",Becket,False
+1964,1965,37,BEST PICTURE,"Stanley Kubrick, Producer",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
+1964,1965,37,BEST PICTURE,"Walt Disney and Bill Walsh, Producers",Mary Poppins,False
+1964,1965,37,BEST PICTURE,"Jack L. Warner, Producer",My Fair Lady,True
+1964,1965,37,BEST PICTURE,"Michael Cacoyannis, Producer",Zorba the Greek,False
+1964,1965,37,SHORT SUBJECT (Cartoon),National Film Board of Canada,Christmas Cracker,False
+1964,1965,37,SHORT SUBJECT (Cartoon),"William L. Snyder, Producer",How to Avoid Friendship,False
+1964,1965,37,SHORT SUBJECT (Cartoon),"William L. Snyder, Producer",Nudnik #2,False
+1964,1965,37,SHORT SUBJECT (Cartoon),"David H. DePatie and Friz Freleng, Producers",The Pink Phink,True
+1964,1965,37,SHORT SUBJECT (Live Action),"Edward Schreiber, Producer",Casals Conducts: 1964,True
+1964,1965,37,SHORT SUBJECT (Live Action),"Carson Davidson, Producer",Help! My Snowman's Burning Down,False
+1964,1965,37,SHORT SUBJECT (Live Action),"Robert Clouse, Producer",The Legend of Jimmy Blue Eyes,False
+1964,1965,37,SOUND,"Shepperton Studio Sound Department, John Cox, Sound Director",Becket,False
+1964,1965,37,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director",Father Goose,False
+1964,1965,37,SOUND,"Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",Mary Poppins,False
+1964,1965,37,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",My Fair Lady,True
+1964,1965,37,SOUND,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",The Unsinkable Molly Brown,False
+1964,1965,37,SOUND EFFECTS,Norman Wanstall,Goldfinger,True
+1964,1965,37,SOUND EFFECTS,Robert L. Bratton,The Lively Set,False
+1964,1965,37,SPECIAL VISUAL EFFECTS,"Peter Ellenshaw, Eustace Lycett, Hamilton Luske",Mary Poppins,True
+1964,1965,37,SPECIAL VISUAL EFFECTS,Jim Danforth,7 Faces of Dr. Lao,False
+1964,1965,37,WRITING (Screenplay--based on material from another medium),Edward Anhalt,Becket,True
+1964,1965,37,WRITING (Screenplay--based on material from another medium),"Stanley Kubrick, Peter George, Terry Southern",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
+1964,1965,37,WRITING (Screenplay--based on material from another medium),"Bill Walsh, Don DaGradi",Mary Poppins,False
+1964,1965,37,WRITING (Screenplay--based on material from another medium),Alan Jay Lerner,My Fair Lady,False
+1964,1965,37,WRITING (Screenplay--based on material from another medium),Michael Cacoyannis,Zorba the Greek,False
+1964,1965,37,WRITING (Story and Screenplay--written directly for the screen),"Story by S. H. Barnett;  Screenplay by Peter Stone, Frank Tarloff",Father Goose,True
+1964,1965,37,WRITING (Story and Screenplay--written directly for the screen),Alun Owen,A Hard Day's Night,False
+1964,1965,37,WRITING (Story and Screenplay--written directly for the screen),"Story by Orville H. Hampton;  Screenplay by Raphael Hayes, Orville H. Hampton","One Potato, Two Potato",False
+1964,1965,37,WRITING (Story and Screenplay--written directly for the screen),"Age, Scarpelli, Mario Monicelli",The Organizer,False
+1964,1965,37,WRITING (Story and Screenplay--written directly for the screen),"Jean-Paul Rappeneau, Ariane Mnouchkine, Daniel Boulanger, Philippe De Broca",That Man from Rio,False
+1964,1965,37,HONORARY AWARD, William Tuttle for his outstanding make-up achievement for 7 Faces of Dr. Lao.,,True
+1965,1966,38,ACTOR,Richard Burton,The Spy Who Came In from the Cold,False
+1965,1966,38,ACTOR,Lee Marvin,Cat Ballou,True
+1965,1966,38,ACTOR,Laurence Olivier,Othello,False
+1965,1966,38,ACTOR,Rod Steiger,The Pawnbroker,False
+1965,1966,38,ACTOR,Oskar Werner,Ship of Fools,False
+1965,1966,38,ACTOR IN A SUPPORTING ROLE,Martin Balsam,A Thousand Clowns,True
+1965,1966,38,ACTOR IN A SUPPORTING ROLE,Ian Bannen,The Flight of the Phoenix,False
+1965,1966,38,ACTOR IN A SUPPORTING ROLE,Tom Courtenay,Doctor Zhivago,False
+1965,1966,38,ACTOR IN A SUPPORTING ROLE,Michael Dunn,Ship of Fools,False
+1965,1966,38,ACTOR IN A SUPPORTING ROLE,Frank Finlay,Othello,False
+1965,1966,38,ACTRESS,Julie Andrews,The Sound of Music,False
+1965,1966,38,ACTRESS,Julie Christie,Darling,True
+1965,1966,38,ACTRESS,Samantha Eggar,The Collector,False
+1965,1966,38,ACTRESS,Elizabeth Hartman,A Patch of Blue,False
+1965,1966,38,ACTRESS,Simone Signoret,Ship of Fools,False
+1965,1966,38,ACTRESS IN A SUPPORTING ROLE,Ruth Gordon,Inside Daisy Clover,False
+1965,1966,38,ACTRESS IN A SUPPORTING ROLE,Joyce Redman,Othello,False
+1965,1966,38,ACTRESS IN A SUPPORTING ROLE,Maggie Smith,Othello,False
+1965,1966,38,ACTRESS IN A SUPPORTING ROLE,Shelley Winters,A Patch of Blue,True
+1965,1966,38,ACTRESS IN A SUPPORTING ROLE,Peggy Wood,The Sound of Music,False
+1965,1966,38,ART DIRECTION (Black-and-White),Art Direction:  Robert Emmet Smith;  Set Decoration:  Frank Tuttle,King Rat,False
+1965,1966,38,ART DIRECTION (Black-and-White),"Art Direction:  George W. Davis, Urie McCleary;  Set Decoration:  Henry Grace, Charles S. Thompson",A Patch of Blue,False
+1965,1966,38,ART DIRECTION (Black-and-White),Art Direction:  Robert Clatworthy;  Set Decoration:  Joseph Kish,Ship of Fools,True
+1965,1966,38,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Jack Poplin;  Set Decoration:  Robert Benton, Joseph Kish",The Slender Thread,False
+1965,1966,38,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Tambi Larsen, Edward Marshall;  Set Decoration:  Josie MacAvin",The Spy Who Came In from the Cold,False
+1965,1966,38,ART DIRECTION (Color),"Art Direction:  John DeCuir, Jack Martin Smith;  Set Decoration:  Dario Simoni",The Agony and the Ecstasy,False
+1965,1966,38,ART DIRECTION (Color),"Art Direction:  John Box, Terry Marsh;  Set Decoration:  Dario Simoni",Doctor Zhivago,True
+1965,1966,38,ART DIRECTION (Color),"Art Direction:  Richard Day, William Creber, David Hall;  Set Decoration:  Ray Moyer, Fred MacLean, Norman Rockett",The Greatest Story Ever Told,False
+1965,1966,38,ART DIRECTION (Color),Art Direction:  Robert Clatworthy;  Set Decoration:  George James Hopkins,Inside Daisy Clover,False
+1965,1966,38,ART DIRECTION (Color),"Art Direction:  Boris Leven;  Set Decoration:  Walter M. Scott, Ruby Levitt",The Sound of Music,False
+1965,1966,38,CINEMATOGRAPHY (Black-and-White),Loyal Griggs,In Harm's Way,False
+1965,1966,38,CINEMATOGRAPHY (Black-and-White),Burnett Guffey,King Rat,False
+1965,1966,38,CINEMATOGRAPHY (Black-and-White),Conrad Hall,Morituri,False
+1965,1966,38,CINEMATOGRAPHY (Black-and-White),Robert Burks,A Patch of Blue,False
+1965,1966,38,CINEMATOGRAPHY (Black-and-White),Ernest Laszlo,Ship of Fools,True
+1965,1966,38,CINEMATOGRAPHY (Color),Leon Shamroy,The Agony and the Ecstasy,False
+1965,1966,38,CINEMATOGRAPHY (Color),Freddie Young,Doctor Zhivago,True
+1965,1966,38,CINEMATOGRAPHY (Color),Russell Harlan,The Great Race,False
+1965,1966,38,CINEMATOGRAPHY (Color),"William C. Mellor, Loyal Griggs",The Greatest Story Ever Told,False
+1965,1966,38,CINEMATOGRAPHY (Color),Ted McCord,The Sound of Music,False
+1965,1966,38,COSTUME DESIGN (Black-and-White),Julie Harris,Darling,True
+1965,1966,38,COSTUME DESIGN (Black-and-White),Moss Mabry,Morituri,False
+1965,1966,38,COSTUME DESIGN (Black-and-White),Howard Shoup,A Rage to Live,False
+1965,1966,38,COSTUME DESIGN (Black-and-White),"Bill Thomas, Jean Louis",Ship of Fools,False
+1965,1966,38,COSTUME DESIGN (Black-and-White),Edith Head,The Slender Thread,False
+1965,1966,38,COSTUME DESIGN (Color),Vittorio Nino Novarese,The Agony and the Ecstasy,False
+1965,1966,38,COSTUME DESIGN (Color),Phyllis Dalton,Doctor Zhivago,True
+1965,1966,38,COSTUME DESIGN (Color),"Vittorio Nino Novarese, Marjorie Best",The Greatest Story Ever Told,False
+1965,1966,38,COSTUME DESIGN (Color),"Edith Head, Bill Thomas",Inside Daisy Clover,False
+1965,1966,38,COSTUME DESIGN (Color),Dorothy Jeakins,The Sound of Music,False
+1965,1966,38,DIRECTING,William Wyler,The Collector,False
+1965,1966,38,DIRECTING,John Schlesinger,Darling,False
+1965,1966,38,DIRECTING,David Lean,Doctor Zhivago,False
+1965,1966,38,DIRECTING,Robert Wise,The Sound of Music,True
+1965,1966,38,DIRECTING,Hiroshi Teshigahara,Woman in the Dunes,False
+1965,1966,38,DOCUMENTARY (Feature),"Laurence E. Mascott, Producer",The Battle of the Bulge...The Brave Rifles,False
+1965,1966,38,DOCUMENTARY (Feature),"Sidney Glazier, Producer",The Eleanor Roosevelt Story,True
+1965,1966,38,DOCUMENTARY (Feature),"Peter Mills, Producer",The Forth Road Bridge,False
+1965,1966,38,DOCUMENTARY (Feature),"Marshall Flaum, Producer",Let My People Go,False
+1965,1966,38,DOCUMENTARY (Feature),"Frédéric Rossif, Producer",To Die in Madrid,False
+1965,1966,38,DOCUMENTARY (Short Subject),"Kirk Smallman, Producer",Mural on Our Street,False
+1965,1966,38,DOCUMENTARY (Short Subject),Mafilm Productions,Ouverture,False
+1965,1966,38,DOCUMENTARY (Short Subject),Vision Associates Productions,Point of View,False
+1965,1966,38,DOCUMENTARY (Short Subject),"Francis Thompson, Producer",To Be Alive!,True
+1965,1966,38,DOCUMENTARY (Short Subject),"Patrick Carey and Joe Mendoza, Producers",Yeats Country,False
+1965,1966,38,FILM EDITING,Charles Nelson,Cat Ballou,False
+1965,1966,38,FILM EDITING,Norman Savage,Doctor Zhivago,False
+1965,1966,38,FILM EDITING,Michael Luciano,The Flight of the Phoenix,False
+1965,1966,38,FILM EDITING,Ralph E. Winters,The Great Race,False
+1965,1966,38,FILM EDITING,William Reynolds,The Sound of Music,True
+1965,1966,38,FOREIGN LANGUAGE FILM,Greece,Blood on the Land,False
+1965,1966,38,FOREIGN LANGUAGE FILM,Sweden,Dear John,False
+1965,1966,38,FOREIGN LANGUAGE FILM,Japan,Kwaidan,False
+1965,1966,38,FOREIGN LANGUAGE FILM,Italy,Marriage Italian Style,False
+1965,1966,38,FOREIGN LANGUAGE FILM,Czechoslovakia,The Shop on Main Street,True
+1965,1966,38,MUSIC (Music Score--substantially original),Alex North,The Agony and the Ecstasy,False
+1965,1966,38,MUSIC (Music Score--substantially original),Maurice Jarre,Doctor Zhivago,True
+1965,1966,38,MUSIC (Music Score--substantially original),Alfred Newman,The Greatest Story Ever Told,False
+1965,1966,38,MUSIC (Music Score--substantially original),Jerry Goldsmith,A Patch of Blue,False
+1965,1966,38,MUSIC (Music Score--substantially original),"Michel Legrand, Jacques Demy",The Umbrellas of Cherbourg,False
+1965,1966,38,MUSIC (Scoring of Music--adaptation or treatment),DeVol,Cat Ballou,False
+1965,1966,38,MUSIC (Scoring of Music--adaptation or treatment),"Lionel Newman, Alexander Courage",The Pleasure Seekers,False
+1965,1966,38,MUSIC (Scoring of Music--adaptation or treatment),Irwin Kostal,The Sound of Music,True
+1965,1966,38,MUSIC (Scoring of Music--adaptation or treatment),Don Walker,A Thousand Clowns,False
+1965,1966,38,MUSIC (Scoring of Music--adaptation or treatment),Michel Legrand,The Umbrellas of Cherbourg,False
+1965,1966,38,MUSIC (Song),Music by Jerry Livingston; Lyrics by Mack David,Cat Ballou,False
+1965,1966,38,MUSIC (Song),Music by Michel Legrand; Lyrics by Jacques Demy; English Lyrics by Norman Gimbel,The Umbrellas of Cherbourg,False
+1965,1966,38,MUSIC (Song),Music by Johnny Mandel; Lyrics by Paul Francis Webster,The Sandpiper,True
+1965,1966,38,MUSIC (Song),Music by Henry Mancini; Lyrics by Johnny Mercer,The Great Race,False
+1965,1966,38,MUSIC (Song),Music by Burt Bacharach; Lyrics by Hal David,What's New Pussycat?,False
+1965,1966,38,BEST PICTURE,"Joseph Janni, Producer",Darling,False
+1965,1966,38,BEST PICTURE,"Carlo Ponti, Producer",Doctor Zhivago,False
+1965,1966,38,BEST PICTURE,"Stanley Kramer, Producer",Ship of Fools,False
+1965,1966,38,BEST PICTURE,"Robert Wise, Producer",The Sound of Music,True
+1965,1966,38,BEST PICTURE,"Fred Coe, Producer",A Thousand Clowns,False
+1965,1966,38,SHORT SUBJECT (Cartoon),"Eliot Noyes, Jr., Producer",Clay or The Origin of Species,False
+1965,1966,38,SHORT SUBJECT (Cartoon),"Chuck Jones and Les Goldman, Producers",The Dot and the Line,True
+1965,1966,38,SHORT SUBJECT (Cartoon),"Emanuele Luzzati, Producer",The Thieving Magpie (La Gazza Ladra),False
+1965,1966,38,SHORT SUBJECT (Live Action),"Claude Berri, Producer",The Chicken (Le Poulet),True
+1965,1966,38,SHORT SUBJECT (Live Action),"Lothar Wolff, Producer",Fortress of Peace,False
+1965,1966,38,SHORT SUBJECT (Live Action),"Marshal Backlar and Noel Black, Producers",Skaterdater,False
+1965,1966,38,SHORT SUBJECT (Live Action),"Edgar Anstey, Producer",Snow,False
+1965,1966,38,SHORT SUBJECT (Live Action),"Jim Henson, Producer",Time Piece,False
+1965,1966,38,SOUND,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director",The Agony and the Ecstasy,False
+1965,1966,38,SOUND,"Metro-Goldwyn-Mayer British Studio Sound Department, A. W. Watkins, Sound Director; and Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",Doctor Zhivago,False
+1965,1966,38,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",The Great Race,False
+1965,1966,38,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director",Shenandoah,False
+1965,1966,38,SOUND,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",The Sound of Music,True
+1965,1966,38,SOUND EFFECTS,Tregoweth Brown,The Great Race,True
+1965,1966,38,SOUND EFFECTS,Walter A. Rossi,Von Ryan's Express,False
+1965,1966,38,SPECIAL VISUAL EFFECTS,J. McMillan Johnson,The Greatest Story Ever Told,False
+1965,1966,38,SPECIAL VISUAL EFFECTS,John Stears,Thunderball,True
+1965,1966,38,WRITING (Screenplay--based on material from another medium),"Walter Newman, Frank R. Pierson",Cat Ballou,False
+1965,1966,38,WRITING (Screenplay--based on material from another medium),"Stanley Mann, John Kohn",The Collector,False
+1965,1966,38,WRITING (Screenplay--based on material from another medium),Robert Bolt,Doctor Zhivago,True
+1965,1966,38,WRITING (Screenplay--based on material from another medium),Abby Mann,Ship of Fools,False
+1965,1966,38,WRITING (Screenplay--based on material from another medium),Herb Gardner,A Thousand Clowns,False
+1965,1966,38,WRITING (Story and Screenplay--written directly for the screen),"Age, Scarpelli, Mario Monicelli, Tonino Guerra, Giorgio Salvioni, Suso Cecchi D'Amico",Casanova '70,False
+1965,1966,38,WRITING (Story and Screenplay--written directly for the screen),Frederic Raphael,Darling,True
+1965,1966,38,WRITING (Story and Screenplay--written directly for the screen),"Jack Davies, Ken Annakin",Those Magnificent Men in Their Flying Machines,False
+1965,1966,38,WRITING (Story and Screenplay--written directly for the screen),"Franklin Coen, Frank Davis",The Train,False
+1965,1966,38,WRITING (Story and Screenplay--written directly for the screen),Jacques Demy,The Umbrellas of Cherbourg,False
+1965,1966,38,JEAN HERSHOLT HUMANITARIAN AWARD,Edmond L. DePatie,,True
+1965,1966,38,HONORARY AWARD, Bob Hope for unique and distinguished service to our industry and the Academy.,,True
+1965,1966,38,IRVING G. THALBERG MEMORIAL AWARD,William Wyler,,True
+1966,1967,39,ACTOR,Alan Arkin,The Russians Are Coming The Russians Are Coming,False
+1966,1967,39,ACTOR,Richard Burton,Who's Afraid of Virginia Woolf?,False
+1966,1967,39,ACTOR,Michael Caine,Alfie,False
+1966,1967,39,ACTOR,Steve McQueen,The Sand Pebbles,False
+1966,1967,39,ACTOR,Paul Scofield,A Man for All Seasons,True
+1966,1967,39,ACTOR IN A SUPPORTING ROLE,Mako,The Sand Pebbles,False
+1966,1967,39,ACTOR IN A SUPPORTING ROLE,James Mason,Georgy Girl,False
+1966,1967,39,ACTOR IN A SUPPORTING ROLE,Walter Matthau,The Fortune Cookie,True
+1966,1967,39,ACTOR IN A SUPPORTING ROLE,George Segal,Who's Afraid of Virginia Woolf?,False
+1966,1967,39,ACTOR IN A SUPPORTING ROLE,Robert Shaw,A Man for All Seasons,False
+1966,1967,39,ACTRESS,Anouk Aimee,A Man and a Woman,False
+1966,1967,39,ACTRESS,Ida Kaminska,The Shop on Main Street,False
+1966,1967,39,ACTRESS,Lynn Redgrave,Georgy Girl,False
+1966,1967,39,ACTRESS,Vanessa Redgrave,Morgan!,False
+1966,1967,39,ACTRESS,Elizabeth Taylor,Who's Afraid of Virginia Woolf?,True
+1966,1967,39,ACTRESS IN A SUPPORTING ROLE,Sandy Dennis,Who's Afraid of Virginia Woolf?,True
+1966,1967,39,ACTRESS IN A SUPPORTING ROLE,Wendy Hiller,A Man for All Seasons,False
+1966,1967,39,ACTRESS IN A SUPPORTING ROLE,Jocelyne Lagarde,Hawaii,False
+1966,1967,39,ACTRESS IN A SUPPORTING ROLE,Vivien Merchant,Alfie,False
+1966,1967,39,ACTRESS IN A SUPPORTING ROLE,Geraldine Page,You're a Big Boy Now,False
+1966,1967,39,ART DIRECTION (Black-and-White),Art Direction:  Robert Luthardt;  Set Decoration:  Edward G. Boyle,The Fortune Cookie,False
+1966,1967,39,ART DIRECTION (Black-and-White),Luigi Scaccianoce,The Gospel According to St. Matthew,False
+1966,1967,39,ART DIRECTION (Black-and-White),"Art Direction:  Willy Holt;  Set Decoration:  Marc Frederix, Pierre Guffroy",Is Paris Burning?,False
+1966,1967,39,ART DIRECTION (Black-and-White),"Art Direction:  George W. Davis, Paul Groesse;  Set Decoration:  Henry Grace, Hugh Hunt",Mister Buddwing,False
+1966,1967,39,ART DIRECTION (Black-and-White),Art Direction:  Richard Sylbert;  Set Decoration:  George James Hopkins,Who's Afraid of Virginia Woolf?,True
+1966,1967,39,ART DIRECTION (Color),"Art Direction:  Jack Martin Smith, Dale Hennesy;  Set Decoration:  Walter M. Scott, Stuart A. Reiss",Fantastic Voyage,True
+1966,1967,39,ART DIRECTION (Color),"Art Direction:  Alexander Golitzen, George C. Webb;  Set Decoration:  John McCarthy, John Austin",Gambit,False
+1966,1967,39,ART DIRECTION (Color),Piero Gherardi,Juliet of the Spirits,False
+1966,1967,39,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Arthur Lonergan;  Set Decoration:  Robert Benton, James Payne",The Oscar,False
+1966,1967,39,ART DIRECTION (Color),"Art Direction:  Boris Leven;  Set Decoration:  Walter M. Scott, John Sturtevant, William Kiernan",The Sand Pebbles,False
+1966,1967,39,CINEMATOGRAPHY (Black-and-White),Joseph LaShelle,The Fortune Cookie,False
+1966,1967,39,CINEMATOGRAPHY (Black-and-White),Ken Higgins,Georgy Girl,False
+1966,1967,39,CINEMATOGRAPHY (Black-and-White),Marcel Grignon,Is Paris Burning?,False
+1966,1967,39,CINEMATOGRAPHY (Black-and-White),James Wong Howe,Seconds,False
+1966,1967,39,CINEMATOGRAPHY (Black-and-White),Haskell Wexler,Who's Afraid of Virginia Woolf?,True
+1966,1967,39,CINEMATOGRAPHY (Color),Ernest Laszlo,Fantastic Voyage,False
+1966,1967,39,CINEMATOGRAPHY (Color),Russell Harlan,Hawaii,False
+1966,1967,39,CINEMATOGRAPHY (Color),Ted Moore,A Man for All Seasons,True
+1966,1967,39,CINEMATOGRAPHY (Color),Conrad Hall,The Professionals,False
+1966,1967,39,CINEMATOGRAPHY (Color),Joseph MacDonald,The Sand Pebbles,False
+1966,1967,39,COSTUME DESIGN (Black-and-White),Danilo Donati,The Gospel According to St. Matthew,False
+1966,1967,39,COSTUME DESIGN (Black-and-White),Danilo Donati,Mandragola,False
+1966,1967,39,COSTUME DESIGN (Black-and-White),Helen Rose,Mister Buddwing,False
+1966,1967,39,COSTUME DESIGN (Black-and-White),Jocelyn Rickards,Morgan!,False
+1966,1967,39,COSTUME DESIGN (Black-and-White),Irene Sharaff,Who's Afraid of Virginia Woolf?,True
+1966,1967,39,COSTUME DESIGN (Color),Jean Louis,Gambit,False
+1966,1967,39,COSTUME DESIGN (Color),Dorothy Jeakins,Hawaii,False
+1966,1967,39,COSTUME DESIGN (Color),Piero Gherardi,Juliet of the Spirits,False
+1966,1967,39,COSTUME DESIGN (Color),"Elizabeth Haffenden, Joan Bridge",A Man for All Seasons,True
+1966,1967,39,COSTUME DESIGN (Color),Edith Head,The Oscar,False
+1966,1967,39,DIRECTING,Michelangelo Antonioni,Blow-Up,False
+1966,1967,39,DIRECTING,Claude Lelouch,A Man and a Woman,False
+1966,1967,39,DIRECTING,Fred Zinnemann,A Man for All Seasons,True
+1966,1967,39,DIRECTING,Richard Brooks,The Professionals,False
+1966,1967,39,DIRECTING,Mike Nichols,Who's Afraid of Virginia Woolf?,False
+1966,1967,39,DOCUMENTARY (Feature),"Alfred R. Kelman, Producer",The Face of Genius,False
+1966,1967,39,DOCUMENTARY (Feature),"Peter Jones and Tom Daly, Producers",Helicopter Canada,False
+1966,1967,39,DOCUMENTARY (Feature),"Haroun Tazieff, Producer",Le Volcan Interdit (The Forbidden Volcano),False
+1966,1967,39,DOCUMENTARY (Feature),"Alex Grasshoff, Producer",The Really Big Family,False
+1966,1967,39,DOCUMENTARY (Feature),"Peter Watkins, Producer",The War Game,True
+1966,1967,39,DOCUMENTARY (Short Subject),"Marin Karmitz and Vladimir Forgency, Producers",Adolescence,False
+1966,1967,39,DOCUMENTARY (Short Subject),"Michael Ahnemann and Gary Schlosser, Producers",Cowboy,False
+1966,1967,39,DOCUMENTARY (Short Subject),"Lee R. Bobker and Helen Kristt Radin, Producers",The Odds Against,False
+1966,1967,39,DOCUMENTARY (Short Subject),Mafilm Studio,Saint Matthew Passion,False
+1966,1967,39,DOCUMENTARY (Short Subject),"Edmond A. Levy, Producer",A Year toward Tomorrow,True
+1966,1967,39,FILM EDITING,William B. Murphy,Fantastic Voyage,False
+1966,1967,39,FILM EDITING,"Fredric Steinkamp, Henry Berman, Stewart Linder, Frank Santillo",Grand Prix,True
+1966,1967,39,FILM EDITING,"Hal Ashby, J. Terry Williams",The Russians Are Coming The Russians Are Coming,False
+1966,1967,39,FILM EDITING,William Reynolds,The Sand Pebbles,False
+1966,1967,39,FILM EDITING,Sam O'Steen,Who's Afraid of Virginia Woolf?,False
+1966,1967,39,FOREIGN LANGUAGE FILM,Italy,The Battle of Algiers,False
+1966,1967,39,FOREIGN LANGUAGE FILM,Czechoslovakia,Loves of a Blonde,False
+1966,1967,39,FOREIGN LANGUAGE FILM,France,A Man and a Woman,True
+1966,1967,39,FOREIGN LANGUAGE FILM,Poland,Pharaoh,False
+1966,1967,39,FOREIGN LANGUAGE FILM,Yugoslavia,Three,False
+1966,1967,39,MUSIC (Original Music Score),Toshiro Mayuzumi,The Bible,False
+1966,1967,39,MUSIC (Original Music Score),John Barry,Born Free,True
+1966,1967,39,MUSIC (Original Music Score),Elmer Bernstein,Hawaii,False
+1966,1967,39,MUSIC (Original Music Score),Jerry Goldsmith,The Sand Pebbles,False
+1966,1967,39,MUSIC (Original Music Score),Alex North,Who's Afraid of Virginia Woolf?,False
+1966,1967,39,MUSIC (Scoring of Music--adaptation or treatment),Ken Thorne,A Funny Thing Happened on the Way to the Forum,True
+1966,1967,39,MUSIC (Scoring of Music--adaptation or treatment),Luis Enrique Bacalov,The Gospel According to St. Matthew,False
+1966,1967,39,MUSIC (Scoring of Music--adaptation or treatment),Elmer Bernstein,Return of the Seven,False
+1966,1967,39,MUSIC (Scoring of Music--adaptation or treatment),Harry Sukman,The Singing Nun,False
+1966,1967,39,MUSIC (Scoring of Music--adaptation or treatment),Al Ham,Stop the World--I Want to Get Off,False
+1966,1967,39,MUSIC (Song),Music by Burt Bacharach; Lyrics by Hal David,Alfie,False
+1966,1967,39,MUSIC (Song),Music by John Barry; Lyrics by Don Black,Born Free,True
+1966,1967,39,MUSIC (Song),Music by Tom Springfield; Lyrics by Jim Dale,Georgy Girl,False
+1966,1967,39,MUSIC (Song),Music by Elmer Bernstein; Lyrics by Mack David,Hawaii,False
+1966,1967,39,MUSIC (Song),Music by Johnny Mandel; Lyrics by Paul Francis Webster,An American Dream,False
+1966,1967,39,BEST PICTURE,"Lewis Gilbert, Producer",Alfie,False
+1966,1967,39,BEST PICTURE,"Fred Zinnemann, Producer",A Man for All Seasons,True
+1966,1967,39,BEST PICTURE,"Norman Jewison, Producer",The Russians Are Coming The Russians Are Coming,False
+1966,1967,39,BEST PICTURE,"Robert Wise, Producer",The Sand Pebbles,False
+1966,1967,39,BEST PICTURE,"Ernest Lehman, Producer",Who's Afraid of Virginia Woolf?,False
+1966,1967,39,SHORT SUBJECT (Cartoon),"Wolf Koenig and Robert Verrall, Producers",The Drag,False
+1966,1967,39,SHORT SUBJECT (Cartoon),"John Hubley and Faith Hubley, Producers",Herb Alpert and the Tijuana Brass Double Feature,True
+1966,1967,39,SHORT SUBJECT (Cartoon),"David H. DePatie and Friz Freleng, Producers",The Pink Blueprint,False
+1966,1967,39,SHORT SUBJECT (Live Action),"Derek Williams, Producer",Turkey the Bridge,False
+1966,1967,39,SHORT SUBJECT (Live Action),"Edgar Anstey, Producer",Wild Wings,True
+1966,1967,39,SHORT SUBJECT (Live Action),"Leslie Winik, Producer",The Winning Strain,False
+1966,1967,39,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director",Gambit,False
+1966,1967,39,SOUND,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",Grand Prix,True
+1966,1967,39,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",Hawaii,False
+1966,1967,39,SOUND,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director",The Sand Pebbles,False
+1966,1967,39,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",Who's Afraid of Virginia Woolf?,False
+1966,1967,39,SOUND EFFECTS,Walter Rossi,Fantastic Voyage,False
+1966,1967,39,SOUND EFFECTS,Gordon Daniel,Grand Prix,True
+1966,1967,39,SPECIAL VISUAL EFFECTS,Art Cruickshank,Fantastic Voyage,True
+1966,1967,39,SPECIAL VISUAL EFFECTS,Linwood G. Dunn,Hawaii,False
+1966,1967,39,WRITING (Screenplay--based on material from another medium),Bill Naughton,Alfie,False
+1966,1967,39,WRITING (Screenplay--based on material from another medium),Robert Bolt,A Man for All Seasons,True
+1966,1967,39,WRITING (Screenplay--based on material from another medium),Richard Brooks,The Professionals,False
+1966,1967,39,WRITING (Screenplay--based on material from another medium),William Rose,The Russians Are Coming The Russians Are Coming,False
+1966,1967,39,WRITING (Screenplay--based on material from another medium),Ernest Lehman,Who's Afraid of Virginia Woolf?,False
+1966,1967,39,WRITING (Story and Screenplay--written directly for the screen),"Story by Michelangelo Antonioni;  Screenplay by Michelangelo Antonioni, Tonino Guerra, Edward Bond",Blow-Up,False
+1966,1967,39,WRITING (Story and Screenplay--written directly for the screen),"Billy Wilder, I. A. L. Diamond",The Fortune Cookie,False
+1966,1967,39,WRITING (Story and Screenplay--written directly for the screen),Robert Ardrey,Khartoum,False
+1966,1967,39,WRITING (Story and Screenplay--written directly for the screen),"Story by Claude Lelouch;  Screenplay by Claude Lelouch, Pierre Uytterhoeven",A Man and a Woman,True
+1966,1967,39,WRITING (Story and Screenplay--written directly for the screen),"Clint Johnston, Don Peters",The Naked Prey,False
+1966,1967,39,JEAN HERSHOLT HUMANITARIAN AWARD,George Bagnall,,True
+1966,1967,39,HONORARY AWARD, Y. Frank Freeman for unusual and outstanding service to the Academy during his thirty years in Hollywood.,,True
+1966,1967,39,HONORARY AWARD, Yakima Canutt for achievements as a stunt man and for developing safety devices to protect stunt men everywhere.,,True
+1966,1967,39,IRVING G. THALBERG MEMORIAL AWARD,Robert Wise,,True
